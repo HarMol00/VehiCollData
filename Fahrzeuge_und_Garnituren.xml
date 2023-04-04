@@ -1683,7 +1683,7 @@
       <Address>9143</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
-      <LastDate>2019-02-03T00:00:00</LastDate>
+      <LastDate>2023-05-20T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>99</Index>
@@ -7611,11 +7611,12 @@
       <Manufacturer>Klein Modellbahn</Manufacturer>
       <ItemNumber>0161</ItemNumber>
       <PurchaseDate>2004-10-21T00:00:00</PurchaseDate>
-      <DecoderType>ZIMO MX63R</DecoderType>
-      <Address>56</Address>
-      <Functions>Lichtwechsel</Functions>
+      <Notes>2023-07-01: Schnecke und Zahnrad abgefahren -&gt; Vitrinenmodell</Notes>
+      <DecoderType />
+      <Address>0</Address>
+      <Functions />
       <StartDate>2023-02-24T00:00:00+01:00</StartDate>
-      <LastDate>2019-12-29T00:00:00</LastDate>
+      <LastDate>2023-07-01T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>439</Index>
@@ -10600,7 +10601,7 @@
       <IsEngine>true</IsEngine>
       <Operator>ÖBB</Operator>
       <WheelArrangement>Bo'Bo'</WheelArrangement>
-      <Epoch>3</Epoch>
+      <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>184</Length>
       <Manufacturer>Roco</Manufacturer>
@@ -11981,9 +11982,10 @@
       <Manufacturer>Rivarossi</Manufacturer>
       <ItemNumber>HR2816</ItemNumber>
       <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
+      <DecoderType>ZIMO MX634D</DecoderType>
       <Address>9050</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2023-05-20T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
     </Vehicle>
     <Vehicle>
@@ -11999,9 +12001,10 @@
       <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>40950</ItemNumber>
       <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
+      <DecoderType>ZIMO MX634D</DecoderType>
       <Address>4020</Address>
       <Functions>Lichtwechsel, Fernlicht, Innenbeleuchtung, Zugzielanzeige</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2023-04-08T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
     </Vehicle>
     <Vehicle>
