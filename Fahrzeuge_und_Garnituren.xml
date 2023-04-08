@@ -12001,7 +12001,7 @@
       <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
       <Address>4020</Address>
       <Functions>Lichtwechsel, Fernlicht, Innenbeleuchtung, Zugzielanzeige</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2023-04-08T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
     </Vehicle>
     <Vehicle>
