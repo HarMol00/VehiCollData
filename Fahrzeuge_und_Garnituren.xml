@@ -1683,7 +1683,7 @@
       <Address>9143</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
-      <LastDate>2019-02-03T00:00:00</LastDate>
+      <LastDate>2023-05-20T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>99</Index>
@@ -11983,7 +11983,7 @@
       <PurchaseDate>2023-04-01T00:00:00+02:00</PurchaseDate>
       <Address>9050</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2023-05-20T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
     </Vehicle>
     <Vehicle>
