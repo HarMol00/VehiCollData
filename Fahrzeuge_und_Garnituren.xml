@@ -4606,7 +4606,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>657</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-12-09T00:00:00</StartDate>
+      <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2020-05-10T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -12137,7 +12137,7 @@
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
-      <Vehicles>117;154;179;214;226;229;231;235;279;400;416;417;426;445;479;498;534;636;672</Vehicles>
+      <Vehicles>117;154;179;214;226;229;231;235;279;400;416;417;426;479;498;534;636;672</Vehicles>
     </Train>
     <Train>
       <Index>13</Index>
