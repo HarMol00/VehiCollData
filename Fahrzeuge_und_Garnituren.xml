@@ -7613,7 +7613,7 @@
       <PurchaseDate>2004-10-21T00:00:00</PurchaseDate>
       <Notes>2023-07-01: Schnecke und Zahnrad abgefahren -&gt; Vitrinenmodell</Notes>
       <DecoderType />
-      <Address>0</Address>
+      <Address xsi:nil="true" />
       <Functions />
       <StartDate>2023-02-24T00:00:00+01:00</StartDate>
       <LastDate>2023-07-01T00:00:00+02:00</LastDate>
