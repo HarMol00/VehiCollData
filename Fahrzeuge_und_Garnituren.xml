@@ -12101,7 +12101,7 @@
     </Train>
     <Train>
       <Index>8</Index>
-      <Name>RoLa</Name>
+      <Name>RoLa Ep IV</Name>
       <Category>Ganzzug</Category>
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
@@ -12133,7 +12133,7 @@
     </Train>
     <Train>
       <Index>12</Index>
-      <Name>Güterzug Holz</Name>
+      <Name>Güterzug Holz Ep III</Name>
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
@@ -12141,7 +12141,7 @@
     </Train>
     <Train>
       <Index>13</Index>
-      <Name>Güterzug</Name>
+      <Name>Güterzug Ep III</Name>
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
@@ -12213,7 +12213,7 @@
     </Train>
     <Train>
       <Index>22</Index>
-      <Name>Erzzug</Name>
+      <Name>Erzzug Ep III</Name>
       <Category>Ganzzug</Category>
       <StartDate>2022-10-16T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
