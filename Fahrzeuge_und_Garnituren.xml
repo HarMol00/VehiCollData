@@ -9710,7 +9710,7 @@
       <DecoderType>Lenz Silver+ 21</DecoderType>
       <Address>9341</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-08-19T00:00:00</StartDate>
+      <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2019-12-29T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
