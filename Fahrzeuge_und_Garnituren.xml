@@ -1365,7 +1365,7 @@
       <Notes>Fliegender Hamburger</Notes>
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>877</Address>
-      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
+      <Functions>Lichtwechsel</Functions>
       <StartDate>2021-04-04T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
     </Vehicle>
@@ -1401,7 +1401,7 @@
       <Notes>Vindobona</Notes>
       <DecoderType>Lenz LE105XF</DecoderType>
       <Address>137</Address>
-      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
+      <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2018-12-02T00:00:00</LastDate>
     </Vehicle>
@@ -2192,7 +2192,7 @@
       <Address>789</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
-      <LastDate>2019-04-14T00:00:00</LastDate>
+      <LastDate>2023-08-20T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>128</Index>
@@ -2605,7 +2605,7 @@
       <Address>3071</Address>
       <Functions>Licht vorne</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
-      <LastDate>2018-12-09T00:00:00</LastDate>
+      <LastDate>2023-08-20T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>153</Index>
@@ -2801,6 +2801,7 @@
       <PurchaseDate>1996-05-13T00:00:00</PurchaseDate>
       <DecoderType>ZIMO MX622N</DecoderType>
       <Address>5044</Address>
+      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2020-09-20T00:00:00</LastDate>
     </Vehicle>
@@ -4606,7 +4607,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>657</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-12-09T00:00:00</StartDate>
+      <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2020-05-10T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -9710,7 +9711,7 @@
       <DecoderType>Lenz Silver+ 21</DecoderType>
       <Address>9341</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-08-19T00:00:00</StartDate>
+      <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2019-12-29T00:00:00</LastDate>
     </Vehicle>
     <Vehicle>
@@ -12041,6 +12042,25 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
     </Vehicle>
+    <Vehicle>
+      <Index>688</Index>
+      <Number>5041.06</Number>
+      <Category>+V</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'Bo'</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>192</Length>
+      <Manufacturer>Limitbahn</Manufacturer>
+      <ItemNumber>13020</ItemNumber>
+      <PurchaseDate>2023-07-13T00:00:00</PurchaseDate>
+      <DecoderType>ZIMO MX63R</DecoderType>
+      <Address>5041</Address>
+      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
+      <StartDate>2023-08-12T00:00:00+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -12101,7 +12121,7 @@
     </Train>
     <Train>
       <Index>8</Index>
-      <Name>RoLa</Name>
+      <Name>RoLa Ep IV</Name>
       <Category>Ganzzug</Category>
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
@@ -12133,7 +12153,7 @@
     </Train>
     <Train>
       <Index>12</Index>
-      <Name>Güterzug Holz</Name>
+      <Name>Güterzug Holz Ep III</Name>
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
@@ -12141,7 +12161,7 @@
     </Train>
     <Train>
       <Index>13</Index>
-      <Name>Güterzug</Name>
+      <Name>Güterzug Ep III</Name>
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
@@ -12213,7 +12233,7 @@
     </Train>
     <Train>
       <Index>22</Index>
-      <Name>Erzzug</Name>
+      <Name>Erzzug Ep III</Name>
       <Category>Ganzzug</Category>
       <StartDate>2022-10-16T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
@@ -12246,6 +12266,7 @@
     <Train>
       <Index>26</Index>
       <Name>Güterzug kkStB</Name>
+      <Category>Güterzug</Category>
       <StartDate>2020-01-28T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
       <Vehicles>457;458;459;472;473;474;631;632;633</Vehicles>
