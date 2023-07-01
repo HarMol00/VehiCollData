@@ -1,0 +1,15 @@
+var prgList = [
+ '1|91|91|Basis-Adresse (kurze Adresse)',
+ '2|1|1|Minimale Geschwindigkeit',
+ '3|8|8|Faktor Beschleunigung (Anfahr-Verzögerung)',
+ '4|8|8|Faktor Bremsen (Brems-Verzögerung)',
+ '5|255|255|Maximale Geschwindigkeit',
+ '13|0|0|Funktionsstatus für alternative Betriebsart F1-F8',
+ '14|1|1|Funktionsstatus für alternative Betriebsart F0 + F9-F12',
+ '17|192|192|Erweiterte Adresse (lange Adresse), High Byte',
+ '18|128|128|Erweiterte Adresse (lange Adresse), Low Byte',
+ '19|0|0|Adresse für Mehrfachtraktion F1-F8 (Consist-Adresse)',
+ '21|0|0|F1 - F8 in einer Mehrfachtraktion (im Consist)',
+ '22|0|0|F0, F9 - F12 in einer Mehrfachtraktion (im Consist)',
+ '29|6|6|Decoder-Konfiguration',
+];
