@@ -1365,7 +1365,7 @@
       <Notes>Fliegender Hamburger</Notes>
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>877</Address>
-      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
+      <Functions>Lichtwechsel</Functions>
       <StartDate>2021-04-04T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
     </Vehicle>
@@ -1401,7 +1401,7 @@
       <Notes>Vindobona</Notes>
       <DecoderType>Lenz LE105XF</DecoderType>
       <Address>137</Address>
-      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
+      <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2018-12-02T00:00:00</LastDate>
     </Vehicle>
@@ -2801,6 +2801,7 @@
       <PurchaseDate>1996-05-13T00:00:00</PurchaseDate>
       <DecoderType>ZIMO MX622N</DecoderType>
       <Address>5044</Address>
+      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2020-09-20T00:00:00</LastDate>
     </Vehicle>
