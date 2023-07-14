@@ -12042,6 +12042,25 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
     </Vehicle>
+    <Vehicle>
+      <Index>688</Index>
+      <Number>5041.06</Number>
+      <Category>+V</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'Bo'</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>192</Length>
+      <Manufacturer>Limitbahn</Manufacturer>
+      <ItemNumber>13020</ItemNumber>
+      <PurchaseDate>2023-07-13T00:00:00</PurchaseDate>
+      <DecoderType>ZIMO MX63R</DecoderType>
+      <Address>5041</Address>
+      <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
