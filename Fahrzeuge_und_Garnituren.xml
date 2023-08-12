@@ -12058,7 +12058,7 @@
       <DecoderType>ZIMO MX63R</DecoderType>
       <Address>5041</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2023-08-12T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
     </Vehicle>
   </Vehicles>
@@ -12266,6 +12266,7 @@
     <Train>
       <Index>26</Index>
       <Name>Güterzug kkStB</Name>
+      <Category>Güterzug</Category>
       <StartDate>2020-01-28T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
       <Vehicles>457;458;459;472;473;474;631;632;633</Vehicles>
