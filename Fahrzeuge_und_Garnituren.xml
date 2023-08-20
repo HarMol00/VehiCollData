@@ -2192,7 +2192,7 @@
       <Address>789</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
-      <LastDate>2019-04-14T00:00:00</LastDate>
+      <LastDate>2023-08-20T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>128</Index>
@@ -2605,7 +2605,7 @@
       <Address>3071</Address>
       <Functions>Licht vorne</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
-      <LastDate>2018-12-09T00:00:00</LastDate>
+      <LastDate>2023-08-20T00:00:00+02:00</LastDate>
     </Vehicle>
     <Vehicle>
       <Index>153</Index>
