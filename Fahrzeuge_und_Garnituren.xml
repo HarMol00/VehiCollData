@@ -19,7 +19,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2020-01-11T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>2</Id>
@@ -40,7 +40,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-01-25T00:00:00</StartDate>
       <LastDate>2021-03-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>3</Id>
@@ -60,7 +60,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>4</Id>
@@ -81,7 +81,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2018-07-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>5</Id>
@@ -99,7 +99,7 @@
       <Address xsi:nil="true" />
       <StartDate>2022-09-10T00:00:00</StartDate>
       <LastDate>2023-02-05T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>6</Id>
@@ -118,7 +118,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>7</Id>
@@ -138,7 +138,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-01-28T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>8</Id>
@@ -158,7 +158,7 @@
       <Functions>Lichtwechsel, Rauch</Functions>
       <StartDate>2021-09-19T00:00:00</StartDate>
       <LastDate>2023-02-24T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>9</Id>
@@ -176,7 +176,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>10</Id>
@@ -195,7 +195,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>11</Id>
@@ -216,7 +216,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>12</Id>
@@ -235,7 +235,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-06-21T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>13</Id>
@@ -254,7 +254,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>14</Id>
@@ -273,7 +273,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>15</Id>
@@ -292,7 +292,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>16</Id>
@@ -311,7 +311,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>17</Id>
@@ -330,7 +330,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>18</Id>
@@ -349,7 +349,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-02-06T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>19</Id>
@@ -367,7 +367,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>20</Id>
@@ -385,7 +385,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>21</Id>
@@ -404,7 +404,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-11-17T00:00:00</StartDate>
       <LastDate>2020-12-27T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>22</Id>
@@ -422,7 +422,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>23</Id>
@@ -442,7 +442,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-01-05T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>24</Id>
@@ -462,7 +462,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2019-09-22T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>25</Id>
@@ -481,7 +481,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>26</Id>
@@ -500,7 +500,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>27</Id>
@@ -519,7 +519,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>28</Id>
@@ -538,7 +538,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>29</Id>
@@ -558,7 +558,7 @@
       <Functions>Lichtwechsel (nur hinten)</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>30</Id>
@@ -576,7 +576,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>31</Id>
@@ -594,7 +594,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>32</Id>
@@ -612,7 +612,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>33</Id>
@@ -630,7 +630,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>36</Id>
@@ -647,7 +647,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>37</Id>
@@ -664,7 +664,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>38</Id>
@@ -681,7 +681,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>39</Id>
@@ -698,7 +698,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>40</Id>
@@ -715,7 +715,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>41</Id>
@@ -732,7 +732,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>42</Id>
@@ -750,7 +750,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>43</Id>
@@ -768,7 +768,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>44</Id>
@@ -786,7 +786,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>45</Id>
@@ -804,7 +804,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>46</Id>
@@ -822,7 +822,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>47</Id>
@@ -842,7 +842,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>48</Id>
@@ -862,7 +862,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>49</Id>
@@ -880,7 +880,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>50</Id>
@@ -900,7 +900,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>51</Id>
@@ -921,7 +921,7 @@
       <Functions>Licht vorne</Functions>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>52</Id>
@@ -940,7 +940,7 @@
       <Address>2061</Address>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2019-09-22T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>53</Id>
@@ -960,7 +960,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2016-02-21T00:00:00</StartDate>
       <LastDate>2017-03-05T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>54</Id>
@@ -978,7 +978,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>55</Id>
@@ -996,7 +996,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>56</Id>
@@ -1015,7 +1015,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>57</Id>
@@ -1033,7 +1033,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>58</Id>
@@ -1054,7 +1054,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2018-12-09T00:00:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>59</Id>
@@ -1073,7 +1073,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>60</Id>
@@ -1092,7 +1092,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>61</Id>
@@ -1111,7 +1111,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>62</Id>
@@ -1130,7 +1130,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>63</Id>
@@ -1151,7 +1151,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>64</Id>
@@ -1170,7 +1170,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>65</Id>
@@ -1188,7 +1188,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>66</Id>
@@ -1206,7 +1206,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>67</Id>
@@ -1224,7 +1224,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>68</Id>
@@ -1242,7 +1242,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>69</Id>
@@ -1260,7 +1260,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>70</Id>
@@ -1278,7 +1278,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>71</Id>
@@ -1296,7 +1296,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>72</Id>
@@ -1316,7 +1316,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-01-31T00:00:00</StartDate>
       <LastDate>2019-04-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>73</Id>
@@ -1334,7 +1334,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>74</Id>
@@ -1352,7 +1352,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>75</Id>
@@ -1370,7 +1370,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>76</Id>
@@ -1388,7 +1388,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>77</Id>
@@ -1406,7 +1406,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>78</Id>
@@ -1424,7 +1424,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>79</Id>
@@ -1444,7 +1444,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-04-04T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>80</Id>
@@ -1462,7 +1462,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>81</Id>
@@ -1482,7 +1482,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2018-12-02T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>82</Id>
@@ -1500,7 +1500,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>83</Id>
@@ -1518,7 +1518,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>84</Id>
@@ -1537,7 +1537,7 @@
       <Address>2062</Address>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2019-04-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>85</Id>
@@ -1554,7 +1554,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>86</Id>
@@ -1571,7 +1571,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>87</Id>
@@ -1592,7 +1592,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-06-07T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>89</Id>
@@ -1611,7 +1611,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2022-02-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>90</Id>
@@ -1628,7 +1628,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>91</Id>
@@ -1645,7 +1645,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>92</Id>
@@ -1662,7 +1662,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>93</Id>
@@ -1681,7 +1681,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>94</Id>
@@ -1700,7 +1700,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>95</Id>
@@ -1719,7 +1719,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>96</Id>
@@ -1738,7 +1738,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>97</Id>
@@ -1757,7 +1757,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>98</Id>
@@ -1778,7 +1778,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-05-20T00:00:00+02:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>99</Id>
@@ -1795,7 +1795,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>100</Id>
@@ -1813,7 +1813,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>101</Id>
@@ -1834,7 +1834,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>102</Id>
@@ -1853,7 +1853,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>103</Id>
@@ -1872,7 +1872,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>104</Id>
@@ -1891,7 +1891,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>105</Id>
@@ -1910,7 +1910,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>106</Id>
@@ -1928,7 +1928,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>107</Id>
@@ -1949,7 +1949,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-07-22T00:00:00</StartDate>
       <LastDate>2020-10-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>108</Id>
@@ -1968,7 +1968,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>109</Id>
@@ -1987,7 +1987,7 @@
       <Address>9060</Address>
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>110</Id>
@@ -2006,7 +2006,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>111</Id>
@@ -2024,7 +2024,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>112</Id>
@@ -2042,7 +2042,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>113</Id>
@@ -2060,7 +2060,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>114</Id>
@@ -2078,7 +2078,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>115</Id>
@@ -2096,7 +2096,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>116</Id>
@@ -2114,7 +2114,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>117</Id>
@@ -2132,7 +2132,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>118</Id>
@@ -2150,7 +2150,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>119</Id>
@@ -2168,7 +2168,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>120</Id>
@@ -2186,7 +2186,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>121</Id>
@@ -2204,7 +2204,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>122</Id>
@@ -2222,7 +2222,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>123</Id>
@@ -2240,7 +2240,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>124</Id>
@@ -2258,7 +2258,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>125</Id>
@@ -2276,7 +2276,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>126</Id>
@@ -2296,7 +2296,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-02-02T00:00:00</StartDate>
       <LastDate>2021-03-07T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>127</Id>
@@ -2316,7 +2316,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-08-20T00:00:00+02:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>128</Id>
@@ -2334,7 +2334,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>129</Id>
@@ -2354,7 +2354,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>130</Id>
@@ -2372,7 +2372,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>131</Id>
@@ -2390,7 +2390,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>132</Id>
@@ -2408,7 +2408,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>133</Id>
@@ -2426,7 +2426,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>134</Id>
@@ -2444,7 +2444,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>135</Id>
@@ -2461,7 +2461,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>136</Id>
@@ -2478,7 +2478,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>137</Id>
@@ -2495,7 +2495,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>138</Id>
@@ -2512,7 +2512,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>139</Id>
@@ -2529,7 +2529,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>140</Id>
@@ -2546,7 +2546,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>141</Id>
@@ -2564,7 +2564,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>142</Id>
@@ -2581,7 +2581,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>143</Id>
@@ -2598,7 +2598,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>144</Id>
@@ -2615,7 +2615,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>145</Id>
@@ -2632,7 +2632,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>146</Id>
@@ -2649,7 +2649,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>147</Id>
@@ -2666,7 +2666,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>148</Id>
@@ -2683,7 +2683,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>149</Id>
@@ -2700,7 +2700,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>150</Id>
@@ -2717,7 +2717,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>151</Id>
@@ -2734,7 +2734,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>152</Id>
@@ -2754,7 +2754,7 @@
       <Functions>Licht vorne</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-08-20T00:00:00+02:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>153</Id>
@@ -2772,7 +2772,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>154</Id>
@@ -2790,7 +2790,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>155</Id>
@@ -2808,7 +2808,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>156</Id>
@@ -2829,7 +2829,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>157</Id>
@@ -2847,7 +2847,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>158</Id>
@@ -2868,7 +2868,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-11T00:00:00+01:00</StartDate>
       <LastDate>2019-09-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>159</Id>
@@ -2889,7 +2889,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>160</Id>
@@ -2907,7 +2907,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>161</Id>
@@ -2925,7 +2925,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>162</Id>
@@ -2943,7 +2943,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>163</Id>
@@ -2963,7 +2963,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2020-09-20T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>164</Id>
@@ -2981,7 +2981,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>165</Id>
@@ -2999,7 +2999,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>166</Id>
@@ -3017,7 +3017,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>167</Id>
@@ -3038,7 +3038,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>168</Id>
@@ -3058,7 +3058,7 @@
       <Address>92</Address>
       <StartDate>2022-01-05T00:00:00</StartDate>
       <LastDate>2023-02-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>169</Id>
@@ -3078,7 +3078,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate xsi:nil="true" />
       <LastDate>2015-04-26T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>170</Id>
@@ -3096,7 +3096,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>171</Id>
@@ -3114,7 +3114,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>172</Id>
@@ -3132,7 +3132,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>173</Id>
@@ -3150,7 +3150,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>174</Id>
@@ -3168,7 +3168,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>175</Id>
@@ -3186,7 +3186,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>176</Id>
@@ -3204,7 +3204,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>177</Id>
@@ -3222,7 +3222,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>178</Id>
@@ -3241,7 +3241,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>179</Id>
@@ -3259,7 +3259,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>180</Id>
@@ -3277,7 +3277,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>181</Id>
@@ -3295,7 +3295,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>182</Id>
@@ -3313,7 +3313,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>183</Id>
@@ -3331,7 +3331,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>184</Id>
@@ -3352,7 +3352,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-10-27T00:00:00</StartDate>
       <LastDate>2020-12-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>185</Id>
@@ -3373,7 +3373,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>186</Id>
@@ -3392,7 +3392,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>187</Id>
@@ -3410,7 +3410,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>188</Id>
@@ -3429,7 +3429,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>189</Id>
@@ -3448,7 +3448,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>190</Id>
@@ -3467,7 +3467,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>191</Id>
@@ -3486,7 +3486,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>192</Id>
@@ -3505,7 +3505,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>193</Id>
@@ -3523,7 +3523,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>194</Id>
@@ -3541,7 +3541,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>195</Id>
@@ -3559,7 +3559,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>196</Id>
@@ -3577,7 +3577,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>197</Id>
@@ -3595,7 +3595,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>198</Id>
@@ -3613,7 +3613,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>199</Id>
@@ -3634,7 +3634,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-01-11T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>200</Id>
@@ -3652,7 +3652,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>201</Id>
@@ -3670,7 +3670,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>202</Id>
@@ -3689,7 +3689,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>203</Id>
@@ -3708,7 +3708,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>204</Id>
@@ -3727,7 +3727,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>205</Id>
@@ -3745,7 +3745,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>206</Id>
@@ -3763,7 +3763,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>207</Id>
@@ -3781,7 +3781,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>208</Id>
@@ -3802,7 +3802,7 @@
       <Functions>Lichtwechsel (nur hinten)</Functions>
       <StartDate>2023-03-05T00:00:00+01:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>209</Id>
@@ -3820,7 +3820,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>210</Id>
@@ -3838,7 +3838,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>211</Id>
@@ -3856,7 +3856,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>212</Id>
@@ -3874,7 +3874,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>213</Id>
@@ -3894,7 +3894,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-08-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>214</Id>
@@ -3912,7 +3912,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>215</Id>
@@ -3930,7 +3930,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>216</Id>
@@ -3949,7 +3949,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>217</Id>
@@ -3968,7 +3968,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>218</Id>
@@ -3987,7 +3987,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>219</Id>
@@ -4005,7 +4005,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>220</Id>
@@ -4025,7 +4025,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2019-11-17T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>221</Id>
@@ -4043,7 +4043,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>222</Id>
@@ -4061,7 +4061,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>223</Id>
@@ -4079,7 +4079,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>224</Id>
@@ -4099,7 +4099,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-10-16T00:00:00</StartDate>
       <LastDate>2018-12-09T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>225</Id>
@@ -4117,7 +4117,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>226</Id>
@@ -4135,7 +4135,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>227</Id>
@@ -4153,7 +4153,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>228</Id>
@@ -4171,7 +4171,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>229</Id>
@@ -4189,7 +4189,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>230</Id>
@@ -4207,7 +4207,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>231</Id>
@@ -4225,7 +4225,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>232</Id>
@@ -4244,7 +4244,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>233</Id>
@@ -4263,7 +4263,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>234</Id>
@@ -4281,7 +4281,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>235</Id>
@@ -4299,7 +4299,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>236</Id>
@@ -4317,7 +4317,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>237</Id>
@@ -4335,7 +4335,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>238</Id>
@@ -4353,7 +4353,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>239</Id>
@@ -4374,7 +4374,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-03-21T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>240</Id>
@@ -4392,7 +4392,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>241</Id>
@@ -4411,7 +4411,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>242</Id>
@@ -4430,7 +4430,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>243</Id>
@@ -4449,7 +4449,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>244</Id>
@@ -4468,7 +4468,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>245</Id>
@@ -4487,7 +4487,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>246</Id>
@@ -4506,7 +4506,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>247</Id>
@@ -4525,7 +4525,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>248</Id>
@@ -4544,7 +4544,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>249</Id>
@@ -4562,7 +4562,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>250</Id>
@@ -4583,7 +4583,7 @@
       <Functions>Lichtwechsel, Fernlicht</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-11T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>251</Id>
@@ -4602,7 +4602,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>252</Id>
@@ -4623,7 +4623,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>253</Id>
@@ -4641,7 +4641,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>254</Id>
@@ -4660,7 +4660,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>255</Id>
@@ -4678,7 +4678,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>256</Id>
@@ -4696,7 +4696,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>257</Id>
@@ -4714,7 +4714,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>258</Id>
@@ -4735,7 +4735,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-19T00:00:00+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>259</Id>
@@ -4753,7 +4753,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>260</Id>
@@ -4773,7 +4773,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-05T00:00:00+01:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>261</Id>
@@ -4793,7 +4793,7 @@
       <Address>111</Address>
       <StartDate>2019-09-22T00:00:00</StartDate>
       <LastDate>2020-11-08T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>262</Id>
@@ -4811,7 +4811,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>263</Id>
@@ -4830,7 +4830,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>264</Id>
@@ -4850,7 +4850,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-08T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>265</Id>
@@ -4870,7 +4870,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2020-05-10T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>266</Id>
@@ -4889,7 +4889,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>267</Id>
@@ -4907,7 +4907,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>268</Id>
@@ -4928,7 +4928,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>269</Id>
@@ -4947,7 +4947,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>270</Id>
@@ -4967,7 +4967,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2019-11-17T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>271</Id>
@@ -4985,7 +4985,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>272</Id>
@@ -5004,7 +5004,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>273</Id>
@@ -5023,7 +5023,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>274</Id>
@@ -5042,7 +5042,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>275</Id>
@@ -5061,7 +5061,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>276</Id>
@@ -5080,7 +5080,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>277</Id>
@@ -5100,7 +5100,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>278</Id>
@@ -5119,7 +5119,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>279</Id>
@@ -5137,7 +5137,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>280</Id>
@@ -5155,7 +5155,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>281</Id>
@@ -5173,7 +5173,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>282</Id>
@@ -5192,7 +5192,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>283</Id>
@@ -5209,7 +5209,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>284</Id>
@@ -5226,7 +5226,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>285</Id>
@@ -5243,7 +5243,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>286</Id>
@@ -5260,7 +5260,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>287</Id>
@@ -5277,7 +5277,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>288</Id>
@@ -5295,7 +5295,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>289</Id>
@@ -5313,7 +5313,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>290</Id>
@@ -5331,7 +5331,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>291</Id>
@@ -5349,7 +5349,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>292</Id>
@@ -5368,7 +5368,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>293</Id>
@@ -5386,7 +5386,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>294</Id>
@@ -5406,7 +5406,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-04-14T00:00:00</StartDate>
       <LastDate>2020-08-08T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>295</Id>
@@ -5427,7 +5427,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-01-31T00:00:00</StartDate>
       <LastDate>2019-07-22T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>296</Id>
@@ -5446,7 +5446,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>298</Id>
@@ -5465,7 +5465,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>299</Id>
@@ -5484,7 +5484,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>300</Id>
@@ -5503,7 +5503,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>301</Id>
@@ -5522,7 +5522,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>302</Id>
@@ -5541,7 +5541,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>303</Id>
@@ -5560,7 +5560,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>304</Id>
@@ -5578,7 +5578,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>305</Id>
@@ -5596,7 +5596,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>306</Id>
@@ -5614,7 +5614,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>307</Id>
@@ -5632,7 +5632,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>308</Id>
@@ -5650,7 +5650,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>309</Id>
@@ -5668,7 +5668,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>310</Id>
@@ -5686,7 +5686,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>311</Id>
@@ -5704,7 +5704,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>312</Id>
@@ -5722,7 +5722,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>313</Id>
@@ -5740,7 +5740,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>314</Id>
@@ -5758,7 +5758,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>315</Id>
@@ -5776,7 +5776,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>316</Id>
@@ -5794,7 +5794,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>317</Id>
@@ -5812,7 +5812,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>318</Id>
@@ -5830,7 +5830,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>319</Id>
@@ -5848,7 +5848,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>320</Id>
@@ -5866,7 +5866,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>321</Id>
@@ -5884,7 +5884,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>322</Id>
@@ -5904,7 +5904,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-01-28T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>323</Id>
@@ -5923,7 +5923,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>324</Id>
@@ -5942,7 +5942,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>325</Id>
@@ -5961,7 +5961,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>326</Id>
@@ -5980,7 +5980,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>327</Id>
@@ -5999,7 +5999,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>328</Id>
@@ -6018,7 +6018,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>329</Id>
@@ -6037,7 +6037,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>330</Id>
@@ -6056,7 +6056,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>331</Id>
@@ -6076,7 +6076,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>332</Id>
@@ -6094,7 +6094,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>333</Id>
@@ -6112,7 +6112,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>334</Id>
@@ -6131,7 +6131,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>335</Id>
@@ -6150,7 +6150,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>336</Id>
@@ -6169,7 +6169,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>337</Id>
@@ -6189,7 +6189,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2018-05-20T00:00:00</StartDate>
       <LastDate>2019-09-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>338</Id>
@@ -6207,7 +6207,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>339</Id>
@@ -6225,7 +6225,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>340</Id>
@@ -6245,7 +6245,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-07-16T00:00:00</StartDate>
       <LastDate>2021-09-19T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>342</Id>
@@ -6263,7 +6263,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>343</Id>
@@ -6281,7 +6281,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>344</Id>
@@ -6299,7 +6299,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>345</Id>
@@ -6317,7 +6317,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>346</Id>
@@ -6335,7 +6335,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>347</Id>
@@ -6354,7 +6354,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>348</Id>
@@ -6373,7 +6373,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>349</Id>
@@ -6392,7 +6392,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>350</Id>
@@ -6411,7 +6411,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>351</Id>
@@ -6430,7 +6430,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>352</Id>
@@ -6449,7 +6449,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>353</Id>
@@ -6468,7 +6468,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>354</Id>
@@ -6487,7 +6487,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>355</Id>
@@ -6506,7 +6506,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>356</Id>
@@ -6525,7 +6525,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>357</Id>
@@ -6544,7 +6544,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>358</Id>
@@ -6563,7 +6563,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>359</Id>
@@ -6582,7 +6582,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>360</Id>
@@ -6600,7 +6600,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>361</Id>
@@ -6618,7 +6618,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>362</Id>
@@ -6636,7 +6636,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>363</Id>
@@ -6654,7 +6654,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>364</Id>
@@ -6672,7 +6672,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>365</Id>
@@ -6690,7 +6690,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>366</Id>
@@ -6709,7 +6709,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>367</Id>
@@ -6728,7 +6728,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>368</Id>
@@ -6747,7 +6747,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>369</Id>
@@ -6766,7 +6766,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>370</Id>
@@ -6785,7 +6785,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>371</Id>
@@ -6803,7 +6803,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>372</Id>
@@ -6821,7 +6821,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>373</Id>
@@ -6839,7 +6839,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>374</Id>
@@ -6859,7 +6859,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-11T00:00:00+01:00</StartDate>
       <LastDate>2020-01-25T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>375</Id>
@@ -6880,7 +6880,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-08-08T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>376</Id>
@@ -6899,7 +6899,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>377</Id>
@@ -6918,7 +6918,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>378</Id>
@@ -6936,7 +6936,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>379</Id>
@@ -6954,7 +6954,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>380</Id>
@@ -6972,7 +6972,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>381</Id>
@@ -6990,7 +6990,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>382</Id>
@@ -7008,7 +7008,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>383</Id>
@@ -7027,7 +7027,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>384</Id>
@@ -7048,7 +7048,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-05-12T00:00:00</StartDate>
       <LastDate>2020-08-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>385</Id>
@@ -7066,7 +7066,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>386</Id>
@@ -7086,7 +7086,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-07-22T00:00:00</StartDate>
       <LastDate>2020-10-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>387</Id>
@@ -7104,7 +7104,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>389</Id>
@@ -7123,7 +7123,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>390</Id>
@@ -7143,7 +7143,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2019-08-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>391</Id>
@@ -7162,7 +7162,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>392</Id>
@@ -7181,7 +7181,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>393</Id>
@@ -7200,7 +7200,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>394</Id>
@@ -7220,7 +7220,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-19T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>395</Id>
@@ -7240,7 +7240,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-04-14T00:00:00</StartDate>
       <LastDate>2020-08-08T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>396</Id>
@@ -7258,7 +7258,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>397</Id>
@@ -7277,7 +7277,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>398</Id>
@@ -7295,7 +7295,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>399</Id>
@@ -7314,7 +7314,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>400</Id>
@@ -7332,7 +7332,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>401</Id>
@@ -7351,7 +7351,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>402</Id>
@@ -7370,7 +7370,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>403</Id>
@@ -7389,7 +7389,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>404</Id>
@@ -7408,7 +7408,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>405</Id>
@@ -7427,7 +7427,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>406</Id>
@@ -7446,7 +7446,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>407</Id>
@@ -7465,7 +7465,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>408</Id>
@@ -7484,7 +7484,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>409</Id>
@@ -7503,7 +7503,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>410</Id>
@@ -7522,7 +7522,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>411</Id>
@@ -7540,7 +7540,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>412</Id>
@@ -7559,7 +7559,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>413</Id>
@@ -7577,7 +7577,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>414</Id>
@@ -7595,7 +7595,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>415</Id>
@@ -7613,7 +7613,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>416</Id>
@@ -7632,7 +7632,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>417</Id>
@@ -7651,7 +7651,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>418</Id>
@@ -7670,7 +7670,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>419</Id>
@@ -7689,7 +7689,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>420</Id>
@@ -7708,7 +7708,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>421</Id>
@@ -7726,7 +7726,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>422</Id>
@@ -7746,7 +7746,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-12-06T00:00:00</StartDate>
       <LastDate>2022-02-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>423</Id>
@@ -7765,7 +7765,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>424</Id>
@@ -7784,7 +7784,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>425</Id>
@@ -7802,7 +7802,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>426</Id>
@@ -7820,7 +7820,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>427</Id>
@@ -7838,7 +7838,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>428</Id>
@@ -7858,7 +7858,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-11-17T00:00:00</StartDate>
       <LastDate>2020-12-27T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>429</Id>
@@ -7877,7 +7877,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>430</Id>
@@ -7896,7 +7896,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>431</Id>
@@ -7915,7 +7915,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>432</Id>
@@ -7933,7 +7933,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>433</Id>
@@ -7952,7 +7952,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>434</Id>
@@ -7971,7 +7971,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>435</Id>
@@ -7990,7 +7990,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>436</Id>
@@ -8009,7 +8009,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>437</Id>
@@ -8028,7 +8028,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>438</Id>
@@ -8049,7 +8049,7 @@
       <Functions />
       <StartDate>2023-02-24T00:00:00+01:00</StartDate>
       <LastDate>2023-07-01T00:00:00+02:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>439</Id>
@@ -8067,7 +8067,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>440</Id>
@@ -8085,7 +8085,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>441</Id>
@@ -8104,7 +8104,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>442</Id>
@@ -8123,7 +8123,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>443</Id>
@@ -8142,7 +8142,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>444</Id>
@@ -8161,7 +8161,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>445</Id>
@@ -8180,7 +8180,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>446</Id>
@@ -8198,7 +8198,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>447</Id>
@@ -8217,7 +8217,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>448</Id>
@@ -8236,7 +8236,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>449</Id>
@@ -8255,7 +8255,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>450</Id>
@@ -8274,7 +8274,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>451</Id>
@@ -8293,7 +8293,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>452</Id>
@@ -8312,7 +8312,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>453</Id>
@@ -8330,7 +8330,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>454</Id>
@@ -8348,7 +8348,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>455</Id>
@@ -8366,7 +8366,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>456</Id>
@@ -8384,7 +8384,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>457</Id>
@@ -8402,7 +8402,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>458</Id>
@@ -8420,7 +8420,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>459</Id>
@@ -8438,7 +8438,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>460</Id>
@@ -8456,7 +8456,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>461</Id>
@@ -8474,7 +8474,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>462</Id>
@@ -8492,7 +8492,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>463</Id>
@@ -8512,7 +8512,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-04-05T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>464</Id>
@@ -8533,7 +8533,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2020-08-08T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>465</Id>
@@ -8551,7 +8551,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>466</Id>
@@ -8569,7 +8569,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>467</Id>
@@ -8587,7 +8587,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>468</Id>
@@ -8605,7 +8605,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>469</Id>
@@ -8623,7 +8623,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>470</Id>
@@ -8641,7 +8641,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>471</Id>
@@ -8659,7 +8659,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>472</Id>
@@ -8677,7 +8677,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>473</Id>
@@ -8695,7 +8695,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>474</Id>
@@ -8713,7 +8713,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>475</Id>
@@ -8731,7 +8731,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>476</Id>
@@ -8751,7 +8751,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-08-08T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>477</Id>
@@ -8769,7 +8769,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>478</Id>
@@ -8787,7 +8787,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>479</Id>
@@ -8805,7 +8805,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>480</Id>
@@ -8823,7 +8823,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>481</Id>
@@ -8841,7 +8841,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>482</Id>
@@ -8859,7 +8859,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>483</Id>
@@ -8879,7 +8879,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-01-29T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>484</Id>
@@ -8897,7 +8897,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>485</Id>
@@ -8915,7 +8915,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>486</Id>
@@ -8935,7 +8935,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>487</Id>
@@ -8953,7 +8953,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>488</Id>
@@ -8971,7 +8971,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>489</Id>
@@ -8990,7 +8990,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>490</Id>
@@ -9009,7 +9009,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>491</Id>
@@ -9027,7 +9027,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>492</Id>
@@ -9046,7 +9046,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>493</Id>
@@ -9064,7 +9064,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>494</Id>
@@ -9082,7 +9082,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>495</Id>
@@ -9100,7 +9100,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>496</Id>
@@ -9120,7 +9120,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-12-29T00:00:00</StartDate>
       <LastDate>2021-02-08T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>497</Id>
@@ -9139,7 +9139,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>498</Id>
@@ -9157,7 +9157,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>499</Id>
@@ -9175,7 +9175,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>500</Id>
@@ -9193,7 +9193,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>501</Id>
@@ -9211,7 +9211,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>502</Id>
@@ -9231,7 +9231,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-12-29T00:00:00</StartDate>
       <LastDate>2021-02-08T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>503</Id>
@@ -9249,7 +9249,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>504</Id>
@@ -9267,7 +9267,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>505</Id>
@@ -9285,7 +9285,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>506</Id>
@@ -9304,7 +9304,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>507</Id>
@@ -9323,7 +9323,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>508</Id>
@@ -9342,7 +9342,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>509</Id>
@@ -9361,7 +9361,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>510</Id>
@@ -9380,7 +9380,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>511</Id>
@@ -9399,7 +9399,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>512</Id>
@@ -9418,7 +9418,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>513</Id>
@@ -9437,7 +9437,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>514</Id>
@@ -9457,7 +9457,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-08T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>515</Id>
@@ -9476,7 +9476,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>516</Id>
@@ -9495,7 +9495,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>517</Id>
@@ -9514,7 +9514,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>518</Id>
@@ -9533,7 +9533,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>519</Id>
@@ -9552,7 +9552,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>520</Id>
@@ -9571,7 +9571,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>521</Id>
@@ -9591,7 +9591,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-01-25T00:00:00</StartDate>
       <LastDate>2021-03-07T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>522</Id>
@@ -9610,7 +9610,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>523</Id>
@@ -9629,7 +9629,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>524</Id>
@@ -9648,7 +9648,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>525</Id>
@@ -9667,7 +9667,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>527</Id>
@@ -9686,7 +9686,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>528</Id>
@@ -9705,7 +9705,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>529</Id>
@@ -9724,7 +9724,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>530</Id>
@@ -9745,7 +9745,7 @@
       <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>531</Id>
@@ -9764,7 +9764,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>532</Id>
@@ -9783,7 +9783,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>533</Id>
@@ -9802,7 +9802,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>534</Id>
@@ -9820,7 +9820,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>535</Id>
@@ -9840,7 +9840,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>536</Id>
@@ -9860,7 +9860,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>537</Id>
@@ -9879,7 +9879,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>538</Id>
@@ -9897,7 +9897,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>539</Id>
@@ -9915,7 +9915,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>540</Id>
@@ -9934,7 +9934,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>541</Id>
@@ -9954,7 +9954,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-09-30T00:00:00</StartDate>
       <LastDate>2020-11-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>542</Id>
@@ -9972,7 +9972,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>543</Id>
@@ -9991,7 +9991,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>544</Id>
@@ -10010,7 +10010,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>545</Id>
@@ -10029,7 +10029,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>546</Id>
@@ -10048,7 +10048,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>547</Id>
@@ -10066,7 +10066,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>548</Id>
@@ -10087,7 +10087,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2018-05-01T00:00:00</StartDate>
       <LastDate>2019-09-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>549</Id>
@@ -10108,7 +10108,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-12-06T00:00:00</StartDate>
       <LastDate>2022-02-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>550</Id>
@@ -10129,7 +10129,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2019-07-22T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>551</Id>
@@ -10147,7 +10147,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>552</Id>
@@ -10165,7 +10165,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>553</Id>
@@ -10184,7 +10184,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>554</Id>
@@ -10203,7 +10203,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>555</Id>
@@ -10222,7 +10222,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>556</Id>
@@ -10242,7 +10242,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2018-12-09T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>557</Id>
@@ -10262,7 +10262,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2019-12-29T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>558</Id>
@@ -10281,7 +10281,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>559</Id>
@@ -10300,7 +10300,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>560</Id>
@@ -10319,7 +10319,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>561</Id>
@@ -10338,7 +10338,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>562</Id>
@@ -10357,7 +10357,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>563</Id>
@@ -10375,7 +10375,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>564</Id>
@@ -10394,7 +10394,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>565</Id>
@@ -10413,7 +10413,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>566</Id>
@@ -10432,7 +10432,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>567</Id>
@@ -10452,7 +10452,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2018-12-09T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>568</Id>
@@ -10472,7 +10472,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>569</Id>
@@ -10491,7 +10491,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>570</Id>
@@ -10510,7 +10510,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>571</Id>
@@ -10528,7 +10528,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>572</Id>
@@ -10548,7 +10548,7 @@
       <Functions>Lichtwechsel, Fernlicht</Functions>
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2022-10-16T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>573</Id>
@@ -10568,7 +10568,7 @@
       <Functions>Lichtwechsel, Führerstandsbeleuchtung</Functions>
       <StartDate>2018-12-09T00:00:00</StartDate>
       <LastDate>2020-05-10T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>574</Id>
@@ -10588,7 +10588,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-26T00:00:00+01:00</StartDate>
       <LastDate>2020-02-02T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>575</Id>
@@ -10609,7 +10609,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-04-14T00:00:00</StartDate>
       <LastDate>2020-07-16T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>576</Id>
@@ -10628,7 +10628,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>577</Id>
@@ -10646,7 +10646,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>578</Id>
@@ -10665,7 +10665,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>579</Id>
@@ -10684,7 +10684,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>580</Id>
@@ -10703,7 +10703,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>581</Id>
@@ -10722,7 +10722,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>582</Id>
@@ -10741,7 +10741,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>583</Id>
@@ -10760,7 +10760,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>584</Id>
@@ -10779,7 +10779,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>585</Id>
@@ -10798,7 +10798,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>586</Id>
@@ -10819,7 +10819,7 @@
       <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2019-07-22T00:00:00</StartDate>
       <LastDate>2020-10-30T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>587</Id>
@@ -10838,7 +10838,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>588</Id>
@@ -10859,7 +10859,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>589</Id>
@@ -10879,7 +10879,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-01-28T00:00:00</StartDate>
       <LastDate>2021-03-07T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>590</Id>
@@ -10899,7 +10899,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>592</Id>
@@ -10919,7 +10919,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-11-08T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>594</Id>
@@ -10939,7 +10939,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-12-10T00:00:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>595</Id>
@@ -10958,7 +10958,7 @@
       <Address xsi:nil="true" />
       <StartDate>2015-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>596</Id>
@@ -10978,7 +10978,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung, Sound</Functions>
       <StartDate>2023-01-29T00:00:00</StartDate>
       <LastDate>2017-05-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>597</Id>
@@ -10999,7 +10999,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2015-10-17T00:00:00</StartDate>
       <LastDate>2022-01-03T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>598</Id>
@@ -11017,7 +11017,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>599</Id>
@@ -11035,7 +11035,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>600</Id>
@@ -11055,7 +11055,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>601</Id>
@@ -11075,7 +11075,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>602</Id>
@@ -11094,7 +11094,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>603</Id>
@@ -11113,7 +11113,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>604</Id>
@@ -11132,7 +11132,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>605</Id>
@@ -11151,7 +11151,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>606</Id>
@@ -11171,7 +11171,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>607</Id>
@@ -11191,7 +11191,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>608</Id>
@@ -11212,7 +11212,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-12-27T00:00:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>609</Id>
@@ -11232,7 +11232,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>610</Id>
@@ -11252,7 +11252,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2018-09-23T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>611</Id>
@@ -11269,7 +11269,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>612</Id>
@@ -11288,7 +11288,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>613</Id>
@@ -11307,7 +11307,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>614</Id>
@@ -11326,7 +11326,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>615</Id>
@@ -11345,7 +11345,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>616</Id>
@@ -11364,7 +11364,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>617</Id>
@@ -11383,7 +11383,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>618</Id>
@@ -11402,7 +11402,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>619</Id>
@@ -11421,7 +11421,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>620</Id>
@@ -11440,7 +11440,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>621</Id>
@@ -11459,7 +11459,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>622</Id>
@@ -11479,7 +11479,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>623</Id>
@@ -11499,7 +11499,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2019-09-22T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>624</Id>
@@ -11518,7 +11518,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>625</Id>
@@ -11537,7 +11537,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>626</Id>
@@ -11556,7 +11556,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>627</Id>
@@ -11575,7 +11575,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>628</Id>
@@ -11594,7 +11594,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>629</Id>
@@ -11613,7 +11613,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>630</Id>
@@ -11633,7 +11633,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2018-09-27T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>631</Id>
@@ -11651,7 +11651,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>632</Id>
@@ -11669,7 +11669,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>633</Id>
@@ -11687,7 +11687,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>634</Id>
@@ -11707,7 +11707,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>635</Id>
@@ -11726,7 +11726,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-01-30T00:00:00</StartDate>
       <LastDate>2020-06-21T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>636</Id>
@@ -11744,7 +11744,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>637</Id>
@@ -11763,7 +11763,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>638</Id>
@@ -11782,7 +11782,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>639</Id>
@@ -11801,7 +11801,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>640</Id>
@@ -11820,7 +11820,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>641</Id>
@@ -11841,7 +11841,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>642</Id>
@@ -11861,7 +11861,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-06-11T00:00:00</StartDate>
       <LastDate>2020-08-13T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>643</Id>
@@ -11881,7 +11881,7 @@
       <Functions>Lichtwechsel, Rauch</Functions>
       <StartDate>2020-01-01T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>644</Id>
@@ -11901,7 +11901,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2019-11-05T00:00:00</StartDate>
       <LastDate>2020-12-10T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>645</Id>
@@ -11922,7 +11922,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>646</Id>
@@ -11943,7 +11943,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>647</Id>
@@ -11961,7 +11961,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>648</Id>
@@ -11979,7 +11979,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>649</Id>
@@ -11997,7 +11997,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>650</Id>
@@ -12015,7 +12015,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>651</Id>
@@ -12033,7 +12033,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>652</Id>
@@ -12051,7 +12051,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>653</Id>
@@ -12069,7 +12069,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>654</Id>
@@ -12087,7 +12087,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>655</Id>
@@ -12108,7 +12108,7 @@
       <Functions>Lichtwechsel (Funktionsdecoder)</Functions>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>656</Id>
@@ -12127,7 +12127,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>657</Id>
@@ -12146,7 +12146,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>658</Id>
@@ -12166,7 +12166,7 @@
       <Functions>Lichtwechsel, Sound, Kupplung</Functions>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>659</Id>
@@ -12185,7 +12185,7 @@
       <Address>1072</Address>
       <StartDate>2020-11-14T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>660</Id>
@@ -12204,7 +12204,7 @@
       <Address>9999</Address>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>661</Id>
@@ -12223,7 +12223,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>662</Id>
@@ -12242,7 +12242,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>663</Id>
@@ -12261,7 +12261,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>664</Id>
@@ -12282,7 +12282,7 @@
       <Functions>Lichtwechsel, Rauch, Innenbeleuchtung</Functions>
       <StartDate>2021-08-17T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>665</Id>
@@ -12301,7 +12301,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>666</Id>
@@ -12320,7 +12320,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>667</Id>
@@ -12341,7 +12341,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>668</Id>
@@ -12360,7 +12360,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>669</Id>
@@ -12379,7 +12379,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>670</Id>
@@ -12398,7 +12398,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>671</Id>
@@ -12416,7 +12416,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>672</Id>
@@ -12434,7 +12434,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>673</Id>
@@ -12453,7 +12453,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>674</Id>
@@ -12472,7 +12472,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>675</Id>
@@ -12491,7 +12491,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>676</Id>
@@ -12510,7 +12510,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>677</Id>
@@ -12529,7 +12529,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>678</Id>
@@ -12548,7 +12548,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>679</Id>
@@ -12567,7 +12567,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>680</Id>
@@ -12588,7 +12588,7 @@
       <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>681</Id>
@@ -12606,7 +12606,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>682</Id>
@@ -12624,7 +12624,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>683</Id>
@@ -12642,7 +12642,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>684</Id>
@@ -12662,7 +12662,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-05-20T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>685</Id>
@@ -12682,7 +12682,7 @@
       <Functions>Lichtwechsel, Fernlicht, Innenbeleuchtung, Zugzielanzeige</Functions>
       <StartDate>2023-04-08T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>686</Id>
@@ -12700,7 +12700,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>687</Id>
@@ -12718,7 +12718,7 @@
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>688</Id>
@@ -12738,7 +12738,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-08-12T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
-      <CompositionId>0</CompositionId>
+      <TrainId>0</TrainId>
     </Vehicle>
   </Vehicles>
   <Trains>
