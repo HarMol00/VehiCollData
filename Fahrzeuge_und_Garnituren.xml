@@ -12682,7 +12682,7 @@
       <Functions>Lichtwechsel, Fernlicht, Innenbeleuchtung, Zugzielanzeige</Functions>
       <StartDate>2023-04-08T00:00:00+02:00</StartDate>
       <LastDate xsi:nil="true" />
-      <TrainId>0</TrainId>
+      <TrainId>57</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>686</Id>
@@ -12748,6 +12748,7 @@
       <Category>Eilzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>408;409;410;429;430;431</Vehicles>
     </Train>
     <Train>
@@ -12756,6 +12757,7 @@
       <Category>Personenzug</Category>
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2019-04-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>165;166;329</Vehicles>
     </Train>
     <Train>
@@ -12764,6 +12766,7 @@
       <Category>Personenzug</Category>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2020-01-06T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>602;603;604;605</Vehicles>
     </Train>
     <Train>
@@ -12772,6 +12775,7 @@
       <Category>Ganzzug</Category>
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>298;299;300;301;302;303;661;662;663</Vehicles>
     </Train>
     <Train>
@@ -12780,6 +12784,7 @@
       <Category>Ganzzug</Category>
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-10-16T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>308;309;310;311;312;313;314;315;316;317</Vehicles>
     </Train>
     <Train>
@@ -12788,6 +12793,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>108;323;324;325;335;336;370</Vehicles>
     </Train>
     <Train>
@@ -12796,6 +12802,7 @@
       <Category>Eilzug</Category>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>618;619;620;656;657</Vehicles>
     </Train>
     <Train>
@@ -12804,6 +12811,7 @@
       <Category>Ganzzug</Category>
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>349;350;351;352;353;354;355;392;492</Vehicles>
     </Train>
     <Train>
@@ -12812,6 +12820,7 @@
       <Category>Kesselzug</Category>
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>215;254;357;420;443;469;470;471;478;485;665;666</Vehicles>
     </Train>
     <Train>
@@ -12820,6 +12829,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>136;137;193;194;200;201;332;333;334;365</Vehicles>
     </Train>
     <Train>
@@ -12828,6 +12838,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2020-07-16T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>558;559;560;561;562;576;587</Vehicles>
     </Train>
     <Train>
@@ -12836,6 +12847,7 @@
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>117;154;179;214;226;229;231;235;279;400;416;417;426;479;498;534;636;672</Vehicles>
     </Train>
     <Train>
@@ -12844,6 +12856,7 @@
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>155;164;183;228;232;233;421;432;433;434;435;441;444;538;569;570</Vehicles>
     </Train>
     <Train>
@@ -12852,6 +12865,7 @@
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>32;99;112;125;153;157;162;170;230;293;385;391;442;481;482;499;505;542</Vehicles>
     </Train>
     <Train>
@@ -12860,6 +12874,7 @@
       <Category>Güterzug</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>33;376;377;387;425;461;462;480;497;503;506;585;629</Vehicles>
     </Train>
     <Train>
@@ -12868,6 +12883,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2017-07-01T00:00:00</StartDate>
       <LastDate>2020-05-10T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>543;544;545;546</Vehicles>
     </Train>
     <Train>
@@ -12876,6 +12892,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2023-01-31T00:00:00</StartDate>
       <LastDate>2020-07-16T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>26;27;28;216;217;218</Vehicles>
     </Train>
     <Train>
@@ -12884,6 +12901,7 @@
       <Category>Eilzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-19T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>93;94;95;96</Vehicles>
     </Train>
     <Train>
@@ -12892,6 +12910,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>624;625;626;627;628</Vehicles>
     </Train>
     <Train>
@@ -12900,6 +12919,7 @@
       <Category>Eilzug</Category>
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2020-10-30T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>398;411;540</Vehicles>
     </Train>
     <Train>
@@ -12908,6 +12928,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2019-05-12T00:00:00</StartDate>
       <LastDate>2020-08-13T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>637;638;639;640;641</Vehicles>
     </Train>
     <Train>
@@ -12916,6 +12937,7 @@
       <Category>Ganzzug</Category>
       <StartDate>2022-10-16T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>64;188;189;190;191;192;251;266;274;275;366;367;368;369;449;450;451;452</Vehicles>
     </Train>
     <Train>
@@ -12924,6 +12946,7 @@
       <Category>Kesselzug</Category>
       <StartDate>2019-09-30T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>30;124;178;196;197;225;236;237;238;318;358;359;373;436;547;553;554;555;563;577;668;669</Vehicles>
     </Train>
     <Train>
@@ -12932,6 +12955,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2023-03-05T00:00:00+01:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>13;14;15;16;17;110;621</Vehicles>
     </Train>
     <Train>
@@ -12940,6 +12964,7 @@
       <Category>Personenzug</Category>
       <StartDate>2020-01-06T00:00:00</StartDate>
       <LastDate>2021-02-21T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>202;203;204;206;221;222;413;414;415</Vehicles>
     </Train>
     <Train>
@@ -12948,6 +12973,7 @@
       <Category>Güterzug</Category>
       <StartDate>2020-01-28T00:00:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>457;458;459;472;473;474;631;632;633</Vehicles>
     </Train>
     <Train>
@@ -12956,6 +12982,7 @@
       <Category>Ganzzug</Category>
       <StartDate>2023-01-31T00:00:00</StartDate>
       <LastDate>2021-03-07T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>241;242;243;244;245;246;247;248;249;256;257</Vehicles>
     </Train>
     <Train>
@@ -12964,6 +12991,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2019-07-22T00:00:00</StartDate>
       <LastDate>2020-11-19T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>42;43;44;45;46</Vehicles>
     </Train>
     <Train>
@@ -12972,6 +13000,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>531;532;533</Vehicles>
     </Train>
     <Train>
@@ -12980,6 +13009,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>59;60;61;62;63</Vehicles>
     </Train>
     <Train>
@@ -12988,6 +13018,7 @@
       <Category>Eilzug</Category>
       <StartDate>2023-03-19T00:00:00+01:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>100;281;440;446;489;490;681;682</Vehicles>
     </Train>
     <Train>
@@ -12996,6 +13027,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>487;488;491</Vehicles>
     </Train>
     <Train>
@@ -13004,6 +13036,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>578;579;580;581;582;583;584</Vehicles>
     </Train>
     <Train>
@@ -13012,6 +13045,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>401;402;403;404;405;406;407</Vehicles>
     </Train>
     <Train>
@@ -13020,6 +13054,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2020-06-07T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>515;516;517;518;519;520</Vehicles>
     </Train>
     <Train>
@@ -13028,6 +13063,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>612;613;614;615;616;617</Vehicles>
     </Train>
     <Train>
@@ -13036,6 +13072,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>90;91;92;611</Vehicles>
     </Train>
     <Train>
@@ -13044,6 +13081,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>102;103;104;105</Vehicles>
     </Train>
     <Train>
@@ -13052,6 +13090,7 @@
       <Category>Eilzug</Category>
       <StartDate>2020-06-21T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>75;76;77;78</Vehicles>
     </Train>
     <Train>
@@ -13060,6 +13099,7 @@
       <Category>Eilzug</Category>
       <StartDate>2020-07-16T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>25;205;447;448</Vehicles>
     </Train>
     <Train>
@@ -13068,6 +13108,7 @@
       <Category>Personenzug</Category>
       <StartDate>2022-01-05T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>360;381;382</Vehicles>
     </Train>
     <Train>
@@ -13076,6 +13117,7 @@
       <Category>Personenzug</Category>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>54;65;527;528;529</Vehicles>
     </Train>
     <Train>
@@ -13084,6 +13126,7 @@
       <Category>Personenzug</Category>
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>55;73;134;211;477</Vehicles>
     </Train>
     <Train>
@@ -13092,6 +13135,7 @@
       <Category>Personenzug</Category>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>361;362;363;493;494;495;501;504</Vehicles>
     </Train>
     <Train>
@@ -13100,6 +13144,7 @@
       <Category>Personenzug</Category>
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>66;67;68;69;70;74;212;683</Vehicles>
     </Train>
     <Train>
@@ -13108,6 +13153,7 @@
       <Category>Personenzug</Category>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>342;343;344;345;346</Vehicles>
     </Train>
     <Train>
@@ -13116,6 +13162,7 @@
       <Category>Personenzug</Category>
       <StartDate>2021-02-28T00:00:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>280;291;292;304;439</Vehicles>
     </Train>
     <Train>
@@ -13124,6 +13171,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-08-13T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>647;648;649;650;651;652;653;654;655</Vehicles>
     </Train>
     <Train>
@@ -13132,6 +13180,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>38;187;223;263;454;455;456;467;468</Vehicles>
     </Train>
     <Train>
@@ -13140,6 +13189,7 @@
       <Category>Bauzug</Category>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>180;181;182</Vehicles>
     </Train>
     <Train>
@@ -13148,6 +13198,7 @@
       <Category>Kesselzug</Category>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>142;143;144;145;146;147;148;149;150;151</Vehicles>
     </Train>
     <Train>
@@ -13156,6 +13207,7 @@
       <Category>Ganzzug</Category>
       <StartDate>2021-02-20T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>507;508;509;510;511;512;513;522</Vehicles>
     </Train>
     <Train>
@@ -13164,6 +13216,7 @@
       <Category>Bauzug</Category>
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>320;321;338;380;396;500</Vehicles>
     </Train>
     <Train>
@@ -13172,6 +13225,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-01-29T00:00:00</LastDate>
+      <EngineId>0</EngineId>
       <Vehicles>484</Vehicles>
     </Train>
     <Train>
@@ -13180,6 +13234,7 @@
       <Category>Schnellzug</Category>
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>673;674;675;676;677;678;679</Vehicles>
     </Train>
     <Train>
@@ -13188,6 +13243,7 @@
       <Category>Güterzug</Category>
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
       <Vehicles>219;278;282;283;284;285;289;290;330;347;348;356;393</Vehicles>
     </Train>
     <Train>
@@ -13196,7 +13252,7 @@
       <Category>Pendelzug H</Category>
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
-      <Engine>0</Engine>
+      <EngineId>685</EngineId>
       <Vehicles>686;687</Vehicles>
     </Train>
   </Trains>
