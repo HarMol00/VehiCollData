@@ -558,7 +558,7 @@
       <Functions>Lichtwechsel (nur hinten)</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>34</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>30</Id>
@@ -1054,7 +1054,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2018-12-09T00:00:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>30</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>59</Id>
@@ -1611,7 +1611,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2022-02-14T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>37</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>90</Id>
@@ -1834,7 +1834,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>38</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>102</Id>
@@ -4773,7 +4773,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-05T00:00:00+01:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>24</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>261</Id>
@@ -6076,7 +6076,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>36</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>332</Id>
@@ -8879,7 +8879,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-01-29T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>54</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>484</Id>
@@ -8935,7 +8935,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>32</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>487</Id>
@@ -9745,7 +9745,7 @@
       <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>29</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>531</Id>
@@ -10859,7 +10859,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>33</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>589</Id>
@@ -11943,7 +11943,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>48</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>647</Id>
@@ -12955,7 +12955,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2023-03-05T00:00:00+01:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>260</EngineId>
       <Vehicles>13;14;15;16;17;110;621</Vehicles>
     </Train>
     <Train>
@@ -13000,7 +13000,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>530</EngineId>
       <Vehicles>531;532;533</Vehicles>
     </Train>
     <Train>
@@ -13009,7 +13009,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>58</EngineId>
       <Vehicles>59;60;61;62;63</Vehicles>
     </Train>
     <Train>
@@ -13027,7 +13027,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>486</EngineId>
       <Vehicles>487;488;491</Vehicles>
     </Train>
     <Train>
@@ -13036,7 +13036,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>588</EngineId>
       <Vehicles>578;579;580;581;582;583;584</Vehicles>
     </Train>
     <Train>
@@ -13045,7 +13045,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>29</EngineId>
       <Vehicles>401;402;403;404;405;406;407</Vehicles>
     </Train>
     <Train>
@@ -13063,7 +13063,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>331</EngineId>
       <Vehicles>612;613;614;615;616;617</Vehicles>
     </Train>
     <Train>
@@ -13072,7 +13072,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>89</EngineId>
       <Vehicles>90;91;92;611</Vehicles>
     </Train>
     <Train>
@@ -13081,7 +13081,7 @@
       <Category>Sonderzug</Category>
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>101</EngineId>
       <Vehicles>102;103;104;105</Vehicles>
     </Train>
     <Train>
@@ -13171,7 +13171,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2020-08-13T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>646</EngineId>
       <Vehicles>647;648;649;650;651;652;653;654;655</Vehicles>
     </Train>
     <Train>
@@ -13225,7 +13225,7 @@
       <Category>Pendelzug H</Category>
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-01-29T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>483</EngineId>
       <Vehicles>484</Vehicles>
     </Train>
     <Train>
