@@ -4098,7 +4098,7 @@
       <Address>659</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-10-16T00:00:00</StartDate>
-      <LastDate>2018-12-09T00:00:00</LastDate>
+      <LastDate>2023-11-17T17:19:03.3434069+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -11861,7 +11861,7 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>1963</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2019-06-11T00:00:00</StartDate>
+      <StartDate>2023-11-17T17:23:35.5502007+01:00</StartDate>
       <LastDate>2020-08-13T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
