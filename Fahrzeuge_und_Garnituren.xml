@@ -12777,7 +12777,7 @@
       <DecoderType>ZIMO MN330P22</DecoderType>
       <Address>1110</Address>
       <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2023-11-24T20:46:12.36496+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
