@@ -12742,6 +12742,45 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>689</Id>
+      <Number>32539</Number>
+      <Category>B4ipüho</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>264</Length>
+      <Manufacturer>A.C.M.E.</Manufacturer>
+      <ItemNumber>24820</ItemNumber>
+      <PurchaseDate>2023-11-24T00:00:00+01:00</PurchaseDate>
+      <Notes>Leichtschnellzugwagen memoba</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>690</Id>
+      <Number>1110.524</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Co'Co'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>205</Length>
+      <Manufacturer>Piko</Manufacturer>
+      <ItemNumber>51772</ItemNumber>
+      <PurchaseDate>2023-11-24T00:00:00+01:00</PurchaseDate>
+      <DecoderType>ZIMO MN330P22</DecoderType>
+      <Address>1110</Address>
+      <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -12805,7 +12844,7 @@
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
       <EngineId>0</EngineId>
-      <Vehicles>618;619;620;656;657</Vehicles>
+      <Vehicles>618;619;620;656;657;689</Vehicles>
     </Train>
     <Train>
       <Id>8</Id>
