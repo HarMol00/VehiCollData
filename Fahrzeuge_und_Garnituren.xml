@@ -5426,7 +5426,7 @@
       <Address>1018</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-01-31T00:00:00</StartDate>
-      <LastDate>2019-07-22T00:00:00</LastDate>
+      <LastDate>2023-12-31T15:58:34.1655343+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -11726,7 +11726,7 @@
       <DecoderType>ZIMO MX600R</DecoderType>
       <Address>2020</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2019-01-30T00:00:00</StartDate>
+      <StartDate>2023-12-31T15:58:41.7550145+01:00</StartDate>
       <LastDate>2020-06-21T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
