@@ -3350,7 +3350,7 @@
       <DecoderType>ZIMO MX623P12</DecoderType>
       <Address>1118</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2019-10-27T00:00:00</StartDate>
+      <StartDate>2024-01-28T11:54:09.0030941+01:00</StartDate>
       <LastDate>2020-12-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -4966,7 +4966,7 @@
       <Address>9042</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-04T00:00:00</StartDate>
-      <LastDate>2019-11-17T00:00:00</LastDate>
+      <LastDate>2024-01-28T12:34:15.2165549+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -12932,7 +12932,7 @@
       <Name>Inlandsreisezug</Name>
       <Category>Schnellzug</Category>
       <StartDate>2023-01-31T00:00:00</StartDate>
-      <LastDate>2020-07-16T00:00:00</LastDate>
+      <LastDate>2024-01-28T11:46:44.5237959+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>26;27;28;216;217;218</Vehicles>
     </Train>
@@ -13219,7 +13219,7 @@
       <Id>49</Id>
       <Name>Schnellzug gn 3</Name>
       <Category>Schnellzug</Category>
-      <StartDate>2021-02-14T00:00:00</StartDate>
+      <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>38;187;223;263;454;455;456;467;468</Vehicles>
