@@ -13310,7 +13310,7 @@
       <Name>Vindobona</Name>
       <Category>Pendelzug H</Category>
       <StartDate xsi:nil="true" />
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-01-30T20:59:18.69555+01:00</LastDate>
       <EngineId>81</EngineId>
       <Vehicles>82;83</Vehicles>
     </Train>
@@ -13319,7 +13319,7 @@
       <Name>Fliegender Hamburger</Name>
       <Category>Pendelzug H</Category>
       <StartDate xsi:nil="true" />
-      <LastDate xsi:nil="true" />
+      <LastDate>2023-02-02T00:00:00</LastDate>
       <EngineId>79</EngineId>
       <Vehicles>80</Vehicles>
     </Train>
