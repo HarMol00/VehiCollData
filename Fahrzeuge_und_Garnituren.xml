@@ -1052,7 +1052,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>4010</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2018-12-09T00:00:00</StartDate>
+      <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
       <TrainId>30</TrainId>
     </Vehicle>
@@ -1481,7 +1481,7 @@
       <Address>137</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
-      <LastDate>2018-12-02T00:00:00</LastDate>
+      <LastDate>2024-01-30T20:59:18.69555+01:00</LastDate>
       <TrainId>59</TrainId>
     </Vehicle>
     <Vehicle>
@@ -13012,7 +13012,7 @@
       <Id>26</Id>
       <Name>Güterzug kkStB</Name>
       <Category>Güterzug</Category>
-      <StartDate>2020-01-28T00:00:00</StartDate>
+      <StartDate>2024-01-30T20:25:52.6174111+01:00</StartDate>
       <LastDate>2020-01-28T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>457;458;459;472;473;474;631;632;633</Vehicles>
@@ -13048,7 +13048,7 @@
       <Id>30</Id>
       <Name>Transalpin</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2020-04-05T00:00:00</StartDate>
+      <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
       <LastDate>2020-04-05T00:00:00</LastDate>
       <EngineId>58</EngineId>
       <Vehicles>59;60;61;62;63</Vehicles>
