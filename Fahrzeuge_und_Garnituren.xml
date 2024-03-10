@@ -939,7 +939,7 @@
       <DecoderType>Tran DCX74zD</DecoderType>
       <Address>2061</Address>
       <StartDate>2023-02-04T00:00:00</StartDate>
-      <LastDate>2019-09-22T00:00:00</LastDate>
+      <LastDate>2024-03-10T09:32:28.9091863+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -1536,7 +1536,7 @@
       <DecoderType>ZIMO MX621</DecoderType>
       <Address>2062</Address>
       <StartDate>2023-02-04T00:00:00</StartDate>
-      <LastDate>2019-04-14T00:00:00</LastDate>
+      <LastDate>2024-03-10T09:48:34.0082728+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -7239,7 +7239,7 @@
       <DecoderType>Tran CTX73</DecoderType>
       <Address>638</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2019-04-14T00:00:00</StartDate>
+      <StartDate>2024-03-10T10:40:08.6929583+01:00</StartDate>
       <LastDate>2020-08-08T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -9840,7 +9840,7 @@
       <Address>5270</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-04T00:00:00</StartDate>
-      <LastDate>2020-01-28T00:00:00</LastDate>
+      <LastDate>2024-03-10T10:40:04.736887+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -10453,7 +10453,7 @@
       <Address>4041</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-02-02T00:00:00</StartDate>
-      <LastDate>2018-12-09T00:00:00</LastDate>
+      <LastDate>2024-03-10T10:28:58.9494697+01:00</LastDate>
       <TrainId>58</TrainId>
     </Vehicle>
     <Vehicle>
@@ -10609,7 +10609,7 @@
       <DecoderType>ZIMO MX621</DecoderType>
       <Address>2045</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2019-04-14T00:00:00</StartDate>
+      <StartDate>2024-03-10T09:35:45.279636+01:00</StartDate>
       <LastDate>2020-07-16T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -10819,7 +10819,7 @@
       <DecoderType>ZIMO MX6462P</DecoderType>
       <Address>38</Address>
       <Functions>Lichtwechsel, Sound</Functions>
-      <StartDate>2019-07-22T00:00:00</StartDate>
+      <StartDate>2024-03-10T13:11:09.8094869+01:00</StartDate>
       <LastDate>2020-10-30T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -13301,7 +13301,7 @@
       <Name>4041</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2023-09-07T10:37:24.2600394+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-03-10T10:28:58.9494697+01:00</LastDate>
       <EngineId>567</EngineId>
       <Vehicles>389;556;571</Vehicles>
     </Train>
