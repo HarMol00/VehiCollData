@@ -12781,6 +12781,138 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>691</Id>
+      <Number>RABe 503 018</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>(1A)(A1)</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>324</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL1680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Basis</Notes>
+      <DecoderType>ZIMO MX634D</DecoderType>
+      <Address>503</Address>
+      <Functions>Lichtwechsel</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>61</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>692</Id>
+      <Number>RABe 503 018</Number>
+      <Category>+E</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>(1A)(A1)</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>301</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL1680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Basis</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>693</Id>
+      <Number>RABe 503 018</Number>
+      <IsEngine>false</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>301</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL4680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Ergänzung</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>694</Id>
+      <Number>RABe 503 018</Number>
+      <IsEngine>false</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>301</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL4680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Ergänzung</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>695</Id>
+      <Number>RABe 503 018</Number>
+      <IsEngine>false</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>301</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL4680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Ergänzung</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>696</Id>
+      <Number>RABe 503 018</Number>
+      <Category>+E</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>(1A)(A1)</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>301</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL1680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Basis</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>697</Id>
+      <Number>RABe 503 018</Number>
+      <Category>+E</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>SBB</Operator>
+      <WheelArrangement>(1A)(A1)</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>324</Length>
+      <Manufacturer>Lima</Manufacturer>
+      <ItemNumber>HL1680</ItemNumber>
+      <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
+      <Notes>Astoro Basis</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -13322,6 +13454,15 @@
       <LastDate>2023-02-02T00:00:00</LastDate>
       <EngineId>79</EngineId>
       <Vehicles>80</Vehicles>
+    </Train>
+    <Train>
+      <Id>61</Id>
+      <Name>Astoro</Name>
+      <Category>Pendelzug H</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>691</EngineId>
+      <Vehicles>692;693;694;695;696;697</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
