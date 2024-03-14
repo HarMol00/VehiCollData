@@ -12783,7 +12783,7 @@
     </Vehicle>
     <Vehicle>
       <Id>691</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-8</Number>
       <Category>+E</Category>
       <IsEngine>true</IsEngine>
       <Operator>SBB</Operator>
@@ -12794,7 +12794,7 @@
       <Manufacturer>Lima</Manufacturer>
       <ItemNumber>HL1680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Basis</Notes>
+      <Notes>Astoro Basisset</Notes>
       <DecoderType>ZIMO MX634D</DecoderType>
       <Address>503</Address>
       <Functions>Lichtwechsel</Functions>
@@ -12804,7 +12804,7 @@
     </Vehicle>
     <Vehicle>
       <Id>692</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-5</Number>
       <Category>+E</Category>
       <IsEngine>false</IsEngine>
       <Operator>SBB</Operator>
@@ -12813,9 +12813,9 @@
       <Scale>H0</Scale>
       <Length>301</Length>
       <Manufacturer>Lima</Manufacturer>
-      <ItemNumber>HL1680</ItemNumber>
+      <ItemNumber>HL4680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Basis</Notes>
+      <Notes>Astoro Ergänzungsset</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -12823,7 +12823,7 @@
     </Vehicle>
     <Vehicle>
       <Id>693</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-7</Number>
       <IsEngine>false</IsEngine>
       <Operator>SBB</Operator>
       <WheelArrangement>2'2'</WheelArrangement>
@@ -12833,7 +12833,7 @@
       <Manufacturer>Lima</Manufacturer>
       <ItemNumber>HL4680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Ergänzung</Notes>
+      <Notes>Astoro Ergänzungsset</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -12841,7 +12841,7 @@
     </Vehicle>
     <Vehicle>
       <Id>694</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-9</Number>
       <IsEngine>false</IsEngine>
       <Operator>SBB</Operator>
       <WheelArrangement>2'2'</WheelArrangement>
@@ -12849,9 +12849,9 @@
       <Scale>H0</Scale>
       <Length>301</Length>
       <Manufacturer>Lima</Manufacturer>
-      <ItemNumber>HL4680</ItemNumber>
+      <ItemNumber>HL1680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Ergänzung</Notes>
+      <Notes>Astoro Basisset</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -12859,7 +12859,7 @@
     </Vehicle>
     <Vehicle>
       <Id>695</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-2</Number>
       <IsEngine>false</IsEngine>
       <Operator>SBB</Operator>
       <WheelArrangement>2'2'</WheelArrangement>
@@ -12867,9 +12867,9 @@
       <Scale>H0</Scale>
       <Length>301</Length>
       <Manufacturer>Lima</Manufacturer>
-      <ItemNumber>HL4680</ItemNumber>
+      <ItemNumber>HL1680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Ergänzung</Notes>
+      <Notes>Astoro Basisset</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -12877,7 +12877,7 @@
     </Vehicle>
     <Vehicle>
       <Id>696</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-4</Number>
       <Category>+E</Category>
       <IsEngine>false</IsEngine>
       <Operator>SBB</Operator>
@@ -12886,9 +12886,9 @@
       <Scale>H0</Scale>
       <Length>301</Length>
       <Manufacturer>Lima</Manufacturer>
-      <ItemNumber>HL1680</ItemNumber>
+      <ItemNumber>HL4680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Basis</Notes>
+      <Notes>Astoro Ergänzungsset</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -12896,7 +12896,7 @@
     </Vehicle>
     <Vehicle>
       <Id>697</Id>
-      <Number>RABe 503 018</Number>
+      <Number>RABe 503 018-6</Number>
       <Category>+E</Category>
       <IsEngine>false</IsEngine>
       <Operator>SBB</Operator>
@@ -12907,7 +12907,7 @@
       <Manufacturer>Lima</Manufacturer>
       <ItemNumber>HL1680</ItemNumber>
       <PurchaseDate>2024-03-11T00:00:00+01:00</PurchaseDate>
-      <Notes>Astoro Basis</Notes>
+      <Notes>Astoro Basisset</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
