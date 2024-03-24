@@ -2867,7 +2867,7 @@
       <Address>792</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-11T00:00:00+01:00</StartDate>
-      <LastDate>2019-09-30T00:00:00</LastDate>
+      <LastDate>2024-03-24T09:31:03.7745129+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -6859,7 +6859,7 @@
       <Address>1043</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-02-11T00:00:00+01:00</StartDate>
-      <LastDate>2020-01-25T00:00:00</LastDate>
+      <LastDate>2024-03-24T09:52:45.8711123+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -9953,7 +9953,7 @@
       <DecoderType>Lenz Standard</DecoderType>
       <Address>1040</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2019-09-30T00:00:00</StartDate>
+      <StartDate>2024-03-24T10:22:58.3329469+01:00</StartDate>
       <LastDate>2020-11-14T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -12946,7 +12946,7 @@
       <Id>4</Id>
       <Name>Schüttgutwagen Talbot 2ax</Name>
       <Category>Ganzzug</Category>
-      <StartDate>2021-03-07T00:00:00</StartDate>
+      <StartDate>2024-03-24T10:12:49.4516277+01:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>298;299;300;301;302;303;661;662;663</Vehicles>
@@ -13154,7 +13154,7 @@
       <Name>Rübenzug</Name>
       <Category>Ganzzug</Category>
       <StartDate>2023-01-31T00:00:00</StartDate>
-      <LastDate>2021-03-07T00:00:00</LastDate>
+      <LastDate>2024-03-24T09:52:40.9026269+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>241;242;243;244;245;246;247;248;249;256;257</Vehicles>
     </Train>
@@ -13414,8 +13414,8 @@
       <Id>56</Id>
       <Name>Güterzug Ep IV (Clean)</Name>
       <Category>Güterzug</Category>
-      <StartDate>2023-02-04T00:00:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <StartDate>2024-03-24T10:23:47.2560534+01:00</StartDate>
+      <LastDate>2024-03-24T10:23:44.9924351+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>219;278;282;283;284;285;289;290;330;347;348;356;393</Vehicles>
     </Train>
