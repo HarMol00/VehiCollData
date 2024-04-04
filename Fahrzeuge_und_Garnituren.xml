@@ -13307,7 +13307,7 @@
       <Name>Preussen 3ax</Name>
       <Category>Personenzug</Category>
       <StartDate>2023-02-04T00:00:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-04-04T17:23:38.9253227+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>361;362;363;493;494;495;501;504</Vehicles>
     </Train>
@@ -13324,7 +13324,7 @@
       <Id>46</Id>
       <Name>Liliput altösterr.</Name>
       <Category>Personenzug</Category>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>342;343;344;345;346</Vehicles>
