@@ -12,7 +12,7 @@ var prgList = [
  '17|193|193|Erweiterte Adresse (lange Adresse), High Byte',
  '18|247|247|Erweiterte Adresse (lange Adresse), Low Byte',
  '28|3|3|Konfiguration RailCom',
- '29|62|62|Decoder-Konfiguration',
+ '29|63|63|Decoder-Konfiguration',
  '30|0|0|Fehlerinformation',
  '33|1|1|Funktionsmapping F0 vorwärts',
  '34|2|2|Funktionsmapping F0 rückwärts',

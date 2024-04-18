@@ -12798,7 +12798,7 @@
       <DecoderType>ZIMO MX634D</DecoderType>
       <Address>503</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>61</TrainId>
     </Vehicle>
@@ -13459,7 +13459,7 @@
       <Id>61</Id>
       <Name>Astoro</Name>
       <Category>Pendelzug H</Category>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <EngineId>691</EngineId>
       <Vehicles>692;693;694;695;696;697</Vehicles>
