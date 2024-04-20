@@ -4734,7 +4734,7 @@
       <Address>1080</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-19T00:00:00+01:00</StartDate>
-      <LastDate>2020-01-28T00:00:00</LastDate>
+      <LastDate>2024-04-20T14:45:48.0775621+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -5902,7 +5902,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>1045</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-01-28T00:00:00</StartDate>
+      <StartDate>2024-04-20T14:45:51.1994015+02:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>

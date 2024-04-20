@@ -18,7 +18,7 @@ var prgList = [
  '34|2|2|Funktionsmapping F0 rückwärts',
  '35|4|4|Funktionsmapping F1 vorwärts',
  '47|0|0|Funktionsmapping F1 rückwärts',
- '57|115|115|ZIMO: max. Motorspannung in 1/10 V',
+ '57|90|90|ZIMO: max. Motorspannung in 1/10 V',
  '60|0|0|ZIMO: Funktionsausgänge dimmen',
  '63|51|51|ZIMO: Modifizieren Lichteffekte',
  '114|0|0|ZIMO: Dimm-Maske 1',
