@@ -59,7 +59,7 @@
       <Address>7</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
-      <LastDate>2020-01-28T00:00:00</LastDate>
+      <LastDate>2024-04-28T11:07:34.7353111+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -6243,7 +6243,7 @@
       <DecoderType>Lenz LE131</DecoderType>
       <Address>2043</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-07-16T00:00:00</StartDate>
+      <StartDate>2024-04-28T12:26:28.8684301+02:00</StartDate>
       <LastDate>2021-09-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
