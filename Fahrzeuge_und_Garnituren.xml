@@ -919,7 +919,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>42</Address>
       <Functions>Licht vorne</Functions>
-      <StartDate>2020-04-05T00:00:00</StartDate>
+      <StartDate>2024-05-02T15:45:24.6565524+02:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -2353,7 +2353,7 @@
       <Address>1042</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
-      <LastDate>2020-01-28T00:00:00</LastDate>
+      <LastDate>2024-05-02T15:42:30.7567492+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -7143,7 +7143,7 @@
       <Address>1116</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
-      <LastDate>2019-08-04T00:00:00</LastDate>
+      <LastDate>2024-05-02T16:13:53.7287262+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -9590,7 +9590,7 @@
       <DecoderType>ZIMO MX64D</DecoderType>
       <Address>1012</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-01-25T00:00:00</StartDate>
+      <StartDate>2024-05-02T16:13:57.2658162+02:00</StartDate>
       <LastDate>2021-03-07T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -11708,7 +11708,7 @@
       <Address>1041</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
-      <LastDate>2020-04-05T00:00:00</LastDate>
+      <LastDate>2024-05-02T16:45:19.8629933+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -11881,7 +11881,7 @@
       <DecoderType>ZIMO MX61</DecoderType>
       <Address>12</Address>
       <Functions>Lichtwechsel, Rauch</Functions>
-      <StartDate>2020-01-01T00:00:00</StartDate>
+      <StartDate>2024-05-02T16:45:23.0580993+02:00</StartDate>
       <LastDate>2021-02-14T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -12938,7 +12938,7 @@
       <Name>Stadtbahnwagen Brawa</Name>
       <Category>Personenzug</Category>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
-      <LastDate>2020-01-06T00:00:00</LastDate>
+      <LastDate>2024-05-02T14:21:32.3285747+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>602;603;604;605</Vehicles>
     </Train>
@@ -13001,7 +13001,7 @@
       <Name>Schnellzug gn 1</Name>
       <Category>Schnellzug</Category>
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
-      <LastDate>2021-02-14T00:00:00</LastDate>
+      <LastDate>2024-05-02T15:07:24.8440739+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>136;137;193;194;200;201;332;333;334;365</Vehicles>
     </Train>
@@ -13190,7 +13190,7 @@
       <Name>Altenburger</Name>
       <Category>Eilzug</Category>
       <StartDate>2023-03-19T00:00:00+01:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2024-05-02T14:21:11.7671399+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>100;281;440;446;489;490;681;682</Vehicles>
     </Train>
@@ -13333,7 +13333,7 @@
       <Id>47</Id>
       <Name>Roco 3ax</Name>
       <Category>Personenzug</Category>
-      <StartDate>2021-02-28T00:00:00</StartDate>
+      <StartDate>2024-05-02T14:25:48.6684558+02:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>280;291;292;304;439</Vehicles>
@@ -13463,6 +13463,15 @@
       <LastDate xsi:nil="true" />
       <EngineId>691</EngineId>
       <Vehicles>692;693;694;695;696;697</Vehicles>
+    </Train>
+    <Train>
+      <Id>62</Id>
+      <Name>Schnellzug gn 2</Name>
+      <Category>Schnellzug</Category>
+      <StartDate>2024-05-02T15:07:21.3951713+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
+      <Vehicles>36;37;207;305;307;453;460;466;539</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
