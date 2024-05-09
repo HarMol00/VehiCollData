@@ -8934,7 +8934,7 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>4030</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
-      <StartDate>2020-04-05T00:00:00</StartDate>
+      <StartDate>2024-05-09T13:18:00.8836747+02:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
       <TrainId>32</TrainId>
     </Vehicle>
@@ -12683,7 +12683,7 @@
       <Address>4020</Address>
       <Functions>Lichtwechsel, Fernlicht, Innenbeleuchtung, Zugzielanzeige</Functions>
       <StartDate>2023-04-08T00:00:00+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-05-09T13:17:54.6346294+02:00</LastDate>
       <TrainId>57</TrainId>
     </Vehicle>
     <Vehicle>
@@ -13198,7 +13198,7 @@
       <Id>32</Id>
       <Name>4030</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2020-04-05T00:00:00</StartDate>
+      <StartDate>2024-05-09T13:18:00.8836747+02:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
       <EngineId>486</EngineId>
       <Vehicles>487;488;491</Vehicles>
@@ -13424,7 +13424,7 @@
       <Name>4020</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2023-09-07T10:37:27.050595+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-05-09T13:17:54.6346294+02:00</LastDate>
       <EngineId>685</EngineId>
       <Vehicles>686;687</Vehicles>
     </Train>
