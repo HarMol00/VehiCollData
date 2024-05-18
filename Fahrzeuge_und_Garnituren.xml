@@ -958,8 +958,8 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>1072</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2016-02-21T00:00:00</StartDate>
-      <LastDate>2017-03-05T00:00:00</LastDate>
+      <StartDate>2024-05-18T10:34:03.7526004+02:00</StartDate>
+      <LastDate>2024-05-18T10:34:29.0456223+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -3632,8 +3632,8 @@
       <DecoderType>Tran DCX76z</DecoderType>
       <Address>688</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-01-11T00:00:00</StartDate>
-      <LastDate>2021-02-14T00:00:00</LastDate>
+      <StartDate>2024-05-18T10:34:12.3101062+02:00</StartDate>
+      <LastDate>2024-05-18T10:34:38.395543+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
@@ -9119,7 +9119,7 @@
       <DecoderType>ZIMO MX63R</DecoderType>
       <Address>156</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2024-03-24T12:18:45.6303074+01:00</StartDate>
+      <StartDate>2024-05-18T10:34:24.8958817+02:00</StartDate>
       <LastDate>2024-03-24T12:26:12.5857677+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -10879,7 +10879,7 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>1063</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-01-28T00:00:00</StartDate>
+      <StartDate>2024-05-18T10:33:45.569109+02:00</StartDate>
       <LastDate>2021-03-07T00:00:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -12663,7 +12663,7 @@
       <Address>9050</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-05-20T00:00:00+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-05-18T10:33:42.2374876+02:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
     <Vehicle>
