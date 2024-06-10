@@ -12913,6 +12913,23 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>698</Id>
+      <Number>Kamera</Number>
+      <Category>Kamera</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>5</Epoch>
+      <Scale>H0</Scale>
+      <Length>140</Length>
+      <Manufacturer>Eigenbau</Manufacturer>
+      <PurchaseDate>2024-06-10T00:00:00+02:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
