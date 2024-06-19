@@ -6019,6 +6019,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>329</Id>
