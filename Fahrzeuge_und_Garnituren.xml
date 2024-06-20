@@ -100,6 +100,7 @@
       <StartDate>2022-09-10T00:00:00</StartDate>
       <LastDate>2023-02-05T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>6</Id>
@@ -119,6 +120,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>7</Id>
@@ -177,6 +179,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>10</Id>
@@ -255,6 +258,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>14</Id>
@@ -274,6 +278,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>15</Id>
@@ -293,6 +298,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>16</Id>
@@ -312,6 +318,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>17</Id>
@@ -331,6 +338,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>18</Id>
@@ -1297,6 +1305,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>72</Id>
@@ -1463,6 +1472,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>81</Id>
@@ -1501,6 +1511,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>83</Id>
@@ -1519,6 +1530,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>84</Id>
@@ -1555,6 +1567,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>86</Id>
@@ -1629,6 +1642,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>91</Id>
@@ -1646,6 +1660,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>92</Id>
@@ -1663,6 +1678,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>93</Id>
@@ -2007,6 +2023,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>111</Id>
@@ -5447,6 +5464,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>298</Id>
@@ -7126,6 +7144,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>390</Id>
@@ -7354,6 +7373,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>402</Id>
@@ -7373,6 +7393,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>403</Id>
@@ -7392,6 +7413,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>404</Id>
@@ -7411,6 +7433,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>405</Id>
@@ -7430,6 +7453,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>406</Id>
@@ -7449,6 +7473,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>407</Id>
@@ -7468,6 +7493,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>408</Id>
@@ -8052,6 +8078,7 @@
       <StartDate>2023-02-24T00:00:00+01:00</StartDate>
       <LastDate>2023-07-01T00:00:00+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>439</Id>
@@ -8900,6 +8927,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>485</Id>
@@ -9479,6 +9507,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>516</Id>
@@ -9498,6 +9527,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>517</Id>
@@ -9517,6 +9547,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>518</Id>
@@ -9536,6 +9567,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>519</Id>
@@ -9555,6 +9587,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>520</Id>
@@ -9574,6 +9607,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>521</Id>
@@ -9767,6 +9801,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>532</Id>
@@ -9786,6 +9821,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>533</Id>
@@ -9805,6 +9841,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>534</Id>
@@ -10246,6 +10283,7 @@
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2023-09-07T10:35:01.5225185+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>557</Id>
@@ -10532,6 +10570,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>572</Id>
@@ -11273,6 +11312,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>612</Id>
@@ -11292,6 +11332,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>613</Id>
@@ -11311,6 +11352,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>614</Id>
@@ -11330,6 +11372,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>615</Id>
@@ -11349,6 +11392,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>616</Id>
@@ -11368,6 +11412,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>617</Id>
@@ -11387,6 +11432,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>618</Id>
@@ -11463,6 +11509,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>622</Id>
@@ -12286,6 +12333,7 @@
       <StartDate>2021-08-17T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>665</Id>
