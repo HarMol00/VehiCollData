@@ -20,6 +20,7 @@
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T08:51:30.0021231+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>2</Id>
@@ -41,6 +42,7 @@
       <StartDate>2020-01-25T00:00:00</StartDate>
       <LastDate>2021-03-14T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>3</Id>
@@ -61,6 +63,7 @@
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2024-04-28T11:07:34.7353111+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>4</Id>
@@ -82,6 +85,7 @@
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2023-10-11T20:26:10.2178216+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>5</Id>
@@ -161,6 +165,7 @@
       <StartDate>2021-09-19T00:00:00</StartDate>
       <LastDate>2023-02-24T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>9</Id>
@@ -199,6 +204,7 @@
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>11</Id>
@@ -220,6 +226,7 @@
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>12</Id>
@@ -239,6 +246,7 @@
       <StartDate>2020-06-21T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>13</Id>
@@ -358,6 +366,7 @@
       <StartDate>2022-02-06T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>19</Id>
@@ -376,6 +385,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>20</Id>
@@ -394,6 +404,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>21</Id>
@@ -431,6 +442,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>23</Id>
@@ -451,6 +463,7 @@
       <StartDate>2022-01-05T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>24</Id>
@@ -471,6 +484,7 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2023-11-26T17:57:54.6305046+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>25</Id>
@@ -567,6 +581,7 @@
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
       <TrainId>34</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>30</Id>
@@ -851,6 +866,7 @@
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>48</Id>
@@ -871,6 +887,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>49</Id>
@@ -889,6 +906,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>50</Id>
@@ -909,6 +927,7 @@
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>51</Id>
@@ -949,6 +968,7 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2024-03-10T09:32:28.9091863+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>53</Id>
@@ -969,6 +989,7 @@
       <StartDate>2024-05-18T10:34:03.7526004+02:00</StartDate>
       <LastDate>2024-05-18T10:34:29.0456223+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>54</Id>
@@ -1326,6 +1347,7 @@
       <StartDate>2023-01-31T00:00:00</StartDate>
       <LastDate>2023-12-07T14:19:23.3574463+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>73</Id>
@@ -1550,6 +1572,7 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2024-03-10T09:48:34.0082728+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>85</Id>
@@ -1585,6 +1608,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>87</Id>
@@ -1606,6 +1630,7 @@
       <StartDate>2020-06-07T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>89</Id>
@@ -1775,6 +1800,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>98</Id>
@@ -1796,6 +1822,7 @@
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-05-20T00:00:00+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>99</Id>
@@ -2005,6 +2032,7 @@
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>110</Id>
@@ -2335,6 +2363,7 @@
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-08-20T00:00:00+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>128</Id>
@@ -2349,10 +2378,12 @@
       <Manufacturer>Liliput</Manufacturer>
       <ItemNumber>L221 605</ItemNumber>
       <PurchaseDate>1995-07-15T00:00:00</PurchaseDate>
+      <Notes>Mit Ladung für Turmwagen</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>129</Id>
@@ -2373,6 +2404,7 @@
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2024-05-02T15:42:30.7567492+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>130</Id>
@@ -2583,6 +2615,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>142</Id>
@@ -2773,6 +2806,7 @@
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-08-20T00:00:00+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>153</Id>
@@ -2848,6 +2882,7 @@
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>157</Id>
@@ -2887,6 +2922,7 @@
       <StartDate>2023-02-11T00:00:00+01:00</StartDate>
       <LastDate>2024-03-24T09:31:03.7745129+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>159</Id>
@@ -2908,6 +2944,7 @@
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-04T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>160</Id>
@@ -2982,6 +3019,7 @@
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T11:23:07.657983+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>164</Id>
@@ -3057,6 +3095,7 @@
       <StartDate>2021-02-14T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>168</Id>
@@ -3097,6 +3136,7 @@
       <StartDate xsi:nil="true" />
       <LastDate>2015-04-26T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>170</Id>
@@ -3392,6 +3432,7 @@
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T11:23:11.3409528+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>186</Id>
@@ -3411,6 +3452,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>187</Id>
@@ -3913,6 +3955,7 @@
       <StartDate>2020-08-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>214</Id>
@@ -4044,6 +4087,7 @@
       <StartDate>2023-02-18T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T10:29:47.4364315+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>221</Id>
@@ -4118,6 +4162,7 @@
       <StartDate>2022-10-16T00:00:00</StartDate>
       <LastDate>2023-11-17T17:19:03.3434069+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>225</Id>
@@ -4393,6 +4438,7 @@
       <StartDate>2021-03-21T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>240</Id>
@@ -4602,6 +4648,7 @@
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-11T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>251</Id>
@@ -4642,6 +4689,7 @@
       <StartDate>2020-04-05T00:00:00</StartDate>
       <LastDate>2021-04-04T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>253</Id>
@@ -4754,6 +4802,7 @@
       <StartDate>2023-03-19T00:00:00+01:00</StartDate>
       <LastDate>2024-04-20T14:45:48.0775621+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>259</Id>
@@ -4772,6 +4821,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>260</Id>
@@ -4792,6 +4842,7 @@
       <StartDate>2023-03-05T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T10:29:51.6125948+02:00</LastDate>
       <TrainId>24</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>261</Id>
@@ -4869,6 +4920,7 @@
       <StartDate>2021-02-08T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>265</Id>
@@ -4889,6 +4941,7 @@
       <StartDate>2023-07-01T00:00:00+02:00</StartDate>
       <LastDate>2024-05-25T21:00:22.3947167+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>266</Id>
@@ -4926,6 +4979,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>268</Id>
@@ -4947,6 +5001,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>269</Id>
@@ -4966,6 +5021,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>270</Id>
@@ -4986,6 +5042,7 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2024-01-28T12:34:15.2165549+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>271</Id>
@@ -5004,6 +5061,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>272</Id>
@@ -5119,6 +5177,7 @@
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>278</Id>
@@ -5279,10 +5338,11 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>287</Id>
-      <Number>00 00 335 5 128-2</Number>
+      <Number>00 00 355 5 128-2</Number>
       <Category>Kbgs</Category>
       <IsEngine>false</IsEngine>
       <Operator>ÖBB</Operator>
@@ -5296,6 +5356,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>288</Id>
@@ -5314,6 +5375,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>289</Id>
@@ -5446,6 +5508,7 @@
       <StartDate>2023-01-31T00:00:00</StartDate>
       <LastDate>2023-12-31T15:58:34.1655343+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>296</Id>
@@ -6097,6 +6160,7 @@
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <TrainId>36</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>332</Id>
@@ -6881,6 +6945,7 @@
       <StartDate>2023-02-11T00:00:00+01:00</StartDate>
       <LastDate>2024-03-24T09:52:45.8711123+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>375</Id>
@@ -6902,6 +6967,7 @@
       <StartDate>2020-08-08T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>376</Id>
@@ -7049,6 +7115,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>384</Id>
@@ -7166,6 +7233,7 @@
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2024-05-02T16:13:53.7287262+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>391</Id>
@@ -7243,6 +7311,7 @@
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-19T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>395</Id>
@@ -7300,6 +7369,7 @@
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>398</Id>
@@ -7337,6 +7407,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>400</Id>
@@ -7776,6 +7847,7 @@
       <StartDate>2020-12-06T00:00:00</StartDate>
       <LastDate>2022-02-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>423</Id>
@@ -8543,6 +8615,7 @@
       <StartDate>2021-04-05T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>464</Id>
@@ -8782,6 +8855,7 @@
       <StartDate>2020-08-08T00:00:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>477</Id>
@@ -9489,6 +9563,7 @@
       <StartDate>2021-02-08T00:00:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>515</Id>
@@ -9881,6 +9956,7 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2024-03-10T10:40:04.736887+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>536</Id>
@@ -9901,6 +9977,7 @@
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>537</Id>
@@ -10149,6 +10226,7 @@
       <StartDate>2020-12-06T00:00:00</StartDate>
       <LastDate>2022-02-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>550</Id>
@@ -10170,6 +10248,7 @@
       <StartDate>2023-02-02T00:00:00</StartDate>
       <LastDate>2024-02-25T10:27:50.7530071+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>551</Id>
@@ -10515,6 +10594,7 @@
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>569</Id>
@@ -10592,6 +10672,7 @@
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2022-10-16T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>573</Id>
@@ -10632,6 +10713,7 @@
       <StartDate>2023-02-26T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T11:23:04.1171906+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>575</Id>
@@ -10943,6 +11025,7 @@
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>592</Id>
@@ -10963,6 +11046,7 @@
       <StartDate>2020-11-08T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>594</Id>
@@ -10983,6 +11067,7 @@
       <StartDate>2020-12-10T00:00:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>595</Id>
@@ -11002,6 +11087,7 @@
       <StartDate>2015-07-01T00:00:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>596</Id>
@@ -11043,6 +11129,7 @@
       <StartDate>2015-10-17T00:00:00</StartDate>
       <LastDate>2022-01-03T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>598</Id>
@@ -11061,6 +11148,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>599</Id>
@@ -11079,6 +11167,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>600</Id>
@@ -11099,6 +11188,7 @@
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>601</Id>
@@ -11119,6 +11209,7 @@
       <StartDate>2021-02-21T00:00:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>602</Id>
@@ -11215,6 +11306,7 @@
       <StartDate>2021-12-19T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>607</Id>
@@ -11235,6 +11327,7 @@
       <StartDate>2021-03-07T00:00:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>608</Id>
@@ -11256,6 +11349,7 @@
       <StartDate>2020-12-27T00:00:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>609</Id>
@@ -11276,6 +11370,7 @@
       <StartDate>2021-06-06T00:00:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>610</Id>
@@ -11296,6 +11391,7 @@
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2023-10-11T20:30:24.5494393+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>611</Id>
@@ -11531,6 +11627,7 @@
       <StartDate>2021-11-28T00:00:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>623</Id>
@@ -11551,6 +11648,7 @@
       <StartDate>2023-02-04T00:00:00</StartDate>
       <LastDate>2023-11-26T17:57:49.1629547+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>624</Id>
@@ -11570,6 +11668,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>625</Id>
@@ -11589,6 +11688,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>626</Id>
@@ -11608,6 +11708,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>627</Id>
@@ -11627,6 +11728,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>628</Id>
@@ -11646,6 +11748,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>629</Id>
@@ -11759,6 +11862,7 @@
       <StartDate>2023-03-26T00:00:00+01:00</StartDate>
       <LastDate>2024-05-02T16:45:19.8629933+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>635</Id>
@@ -11974,6 +12078,7 @@
       <StartDate>2020-05-10T00:00:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>646</Id>
@@ -11995,6 +12100,7 @@
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>48</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>647</Id>
@@ -12013,6 +12119,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>648</Id>
@@ -12031,6 +12138,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>649</Id>
@@ -12049,6 +12157,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>650</Id>
@@ -12067,6 +12176,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>651</Id>
@@ -12085,6 +12195,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>652</Id>
@@ -12103,6 +12214,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>653</Id>
@@ -12121,6 +12233,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>654</Id>
@@ -12139,6 +12252,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>655</Id>
@@ -12160,6 +12274,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Diesel | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>656</Id>
@@ -12218,6 +12333,7 @@
       <StartDate>2020-10-30T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>659</Id>
@@ -12237,6 +12353,7 @@
       <StartDate>2020-11-14T00:00:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>660</Id>
@@ -12394,6 +12511,7 @@
       <StartDate>2022-08-18T00:00:00</StartDate>
       <LastDate>2023-09-23T18:13:00.5429799+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>668</Id>
@@ -12715,6 +12833,7 @@
       <StartDate>2023-05-20T00:00:00+02:00</StartDate>
       <LastDate>2024-05-18T10:33:42.2374876+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>685</Id>
