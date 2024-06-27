@@ -7328,7 +7328,7 @@
       <Manufacturer>Fleischmann</Manufacturer>
       <ItemNumber>95 4167A</ItemNumber>
       <PurchaseDate>2002-05-26T00:00:00</PurchaseDate>
-      <DecoderType>Tran CTX73</DecoderType>
+      <DecoderType>Viessmann 5297</DecoderType>
       <Address>638</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-03-10T10:40:08.6929583+01:00</StartDate>
@@ -10386,8 +10386,9 @@
       <Address>9341</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-07-01T00:00:00+02:00</StartDate>
-      <LastDate>2019-12-29T00:00:00</LastDate>
+      <LastDate>2024-06-27T11:36:18.3740277+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>558</Id>
