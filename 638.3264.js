@@ -18,4 +18,9 @@ var prgList = [
  '34|2|2|Funktionsmapping F0 rückwärts',
  '35|0|0|Funktionsmapping F1 vorwärts',
  '47|0|3|Fahrverhalten',
+ '51|60|60|Lastregelung KP',
+ '52|30|30|Lastregelung KI',
+ '53|10|10|Lastregelung KD',
+ '54|40|40|Lastregelung Messlücke',
+ '55|10|10|Lastregelung Periode',
 ];
