@@ -13357,6 +13357,26 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>699</Id>
+      <Number>1040.13</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>0</Length>
+      <Manufacturer>Rivarossi</Manufacturer>
+      <ItemNumber>HR2820D</ItemNumber>
+      <PurchaseDate>2024-07-25T00:00:00+02:00</PurchaseDate>
+      <DecoderType>ZIMO MX618N18</DecoderType>
+      <Address>9040</Address>
+      <Functions>Lichtwechsel, Fernlicht</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
