@@ -6407,6 +6407,7 @@
       <Manufacturer>Klein Modellbahn</Manufacturer>
       <ItemNumber>0521</ItemNumber>
       <PurchaseDate>2000-06-20T00:00:00</PurchaseDate>
+      <Notes>2024-07-25: Zink beginnt zu zerbröseln</Notes>
       <DecoderType>ZIMO MX620N</DecoderType>
       <Address>2068</Address>
       <Functions>Lichtwechsel</Functions>
@@ -13376,6 +13377,28 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
+    </Vehicle>
+    <Vehicle>
+      <Id>700</Id>
+      <Number>2068.060-9</Number>
+      <Category>+V</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>5</Epoch>
+      <Scale>H0</Scale>
+      <Length>158</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>20620</ItemNumber>
+      <PurchaseDate>2024-07-26T00:00:00+02:00</PurchaseDate>
+      <DecoderType>Lenz Standard+ P22</DecoderType>
+      <Address>2068</Address>
+      <Functions>Lichtwechsel, Führerstandsbel.</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
   </Vehicles>
   <Trains>
