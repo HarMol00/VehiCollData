@@ -6400,7 +6400,7 @@
       <Category>+V</Category>
       <IsEngine>true</IsEngine>
       <Operator>ÖBB</Operator>
-      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <WheelArrangement>B'B'</WheelArrangement>
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>158</Length>
@@ -13385,7 +13385,7 @@
       <Category>+V</Category>
       <IsEngine>true</IsEngine>
       <Operator>ÖBB</Operator>
-      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <WheelArrangement>B'B'</WheelArrangement>
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>158</Length>
@@ -13395,7 +13395,7 @@
       <DecoderType>Lenz Standard+ P22</DecoderType>
       <Address>9068</Address>
       <Functions>Lichtwechsel, Führerstandsbel.</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-07-28T20:20:13.6178645+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
       <Storage>Diesel | 1</Storage>
