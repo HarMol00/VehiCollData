@@ -11859,7 +11859,7 @@
       <DecoderType>Lenz Silver Plux22</DecoderType>
       <Address>5042</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-11-28T00:00:00</StartDate>
+      <StartDate>2024-08-10T21:10:43.3005339+02:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Koffer 1</Storage>
@@ -13166,8 +13166,9 @@
       <Address>5041</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-08-12T00:00:00+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-08-10T21:10:56.7278804+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>689</Id>
