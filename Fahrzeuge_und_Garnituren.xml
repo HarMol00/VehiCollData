@@ -13401,6 +13401,27 @@
       <TrainId>0</TrainId>
       <Storage>Diesel | 1</Storage>
     </Vehicle>
+    <Vehicle>
+      <Id>701</Id>
+      <Number>1142.685-7</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>187</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>70604</ItemNumber>
+      <PurchaseDate>2024-08-17T00:00:00+02:00</PurchaseDate>
+      <DecoderType>ZIMO MX630P16</DecoderType>
+      <Address>1142</Address>
+      <Functions>Lichtwechsel</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
