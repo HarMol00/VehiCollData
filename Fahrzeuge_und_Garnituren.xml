@@ -422,8 +422,9 @@
       <Address>1044</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-09-08T15:49:54.6394828+02:00</StartDate>
-      <LastDate>2020-12-27T00:00:00</LastDate>
+      <LastDate>2024-08-19T15:45:45.1847677+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>22</Id>
@@ -10617,6 +10618,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>559</Id>
@@ -10636,6 +10638,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>560</Id>
@@ -10655,6 +10658,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>561</Id>
@@ -10674,6 +10678,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>562</Id>
@@ -10693,6 +10698,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>563</Id>
@@ -10972,6 +10978,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>577</Id>
@@ -11189,6 +11196,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>588</Id>
@@ -13417,7 +13425,7 @@
       <DecoderType>ZIMO MX630P16</DecoderType>
       <Address>1142</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-08-19T15:35:47.5463713+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
       <Storage>Elektro | 3</Storage>
@@ -13473,7 +13481,7 @@
       <Id>6</Id>
       <Name>Eurofima rt/gr</Name>
       <Category>Schnellzug</Category>
-      <StartDate>2021-06-06T00:00:00</StartDate>
+      <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>108;323;324;325;335;336;370</Vehicles>
@@ -13519,7 +13527,7 @@
       <Name>Austria Express</Name>
       <Category>Schnellzug</Category>
       <StartDate>2023-09-08T15:49:42.6455312+02:00</StartDate>
-      <LastDate>2021-11-28T00:00:00</LastDate>
+      <LastDate>2024-08-19T15:44:03.0057376+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>558;559;560;561;562;576;587</Vehicles>
     </Train>
