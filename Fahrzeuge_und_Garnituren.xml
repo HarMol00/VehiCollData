@@ -6413,8 +6413,9 @@
       <Address>2068</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-09-23T18:13:02.905154+02:00</StartDate>
-      <LastDate>2019-09-30T00:00:00</LastDate>
+      <LastDate>2024-09-26T12:01:50.6887969+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>338</Id>
@@ -13383,7 +13384,7 @@
       <DecoderType>ZIMO MX618N18</DecoderType>
       <Address>9040</Address>
       <Functions>Lichtwechsel, Fernlicht</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-09-26T11:59:31.7649133+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
       <Storage>Elektro | 4</Storage>
@@ -13429,6 +13430,27 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
       <Storage>Elektro | 3</Storage>
+    </Vehicle>
+    <Vehicle>
+      <Id>702</Id>
+      <Number>X491.003</Number>
+      <Category>+V</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>B</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>150</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>71003</ItemNumber>
+      <PurchaseDate>2024-09-26T00:00:00+02:00</PurchaseDate>
+      <Notes>Schneeschleuder</Notes>
+      <DecoderType>ZIMO MS450P22</DecoderType>
+      <Address>491</Address>
+      <Functions>Lichtwechsel, usw.</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
     </Vehicle>
   </Vehicles>
   <Trains>
