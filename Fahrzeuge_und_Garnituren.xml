@@ -2232,6 +2232,7 @@
       <Manufacturer>Klein Modellbahn</Manufacturer>
       <ItemNumber>3051</ItemNumber>
       <PurchaseDate>1995-04-14T00:00:00</PurchaseDate>
+      <Notes>Kohle</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -3045,6 +3046,7 @@
       <Manufacturer>Liliput</Manufacturer>
       <ItemNumber>L221 705</ItemNumber>
       <PurchaseDate>1996-05-04T00:00:00</PurchaseDate>
+      <Notes>Kohle</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
