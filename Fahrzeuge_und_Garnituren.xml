@@ -2232,7 +2232,6 @@
       <Manufacturer>Klein Modellbahn</Manufacturer>
       <ItemNumber>3051</ItemNumber>
       <PurchaseDate>1995-04-14T00:00:00</PurchaseDate>
-      <Notes>Kohle</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -2296,7 +2295,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 2 | O</Storage>
+      <Storage>KB 2 | M</Storage>
     </Vehicle>
     <Vehicle>
       <Id>122</Id>
@@ -2315,7 +2314,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 2 | O</Storage>
+      <Storage>KB 2 | M</Storage>
     </Vehicle>
     <Vehicle>
       <Id>123</Id>
@@ -3046,7 +3045,6 @@
       <Manufacturer>Liliput</Manufacturer>
       <ItemNumber>L221 705</ItemNumber>
       <PurchaseDate>1996-05-04T00:00:00</PurchaseDate>
-      <Notes>Kohle</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -8315,7 +8313,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 2 | O</Storage>
+      <Storage>KB 2 | M</Storage>
     </Vehicle>
     <Vehicle>
       <Id>438</Id>
@@ -9637,6 +9635,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>508</Id>
@@ -9656,6 +9655,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>509</Id>
@@ -9675,6 +9675,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>510</Id>
@@ -9694,6 +9695,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>511</Id>
@@ -9713,6 +9715,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>512</Id>
@@ -9732,6 +9735,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>513</Id>
@@ -9751,6 +9755,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>514</Id>
@@ -9931,6 +9936,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
+      <Storage>KB 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>523</Id>
@@ -13921,7 +13927,7 @@
       <Name>Containerzug</Name>
       <Category>Ganzzug</Category>
       <StartDate>2023-10-11T20:13:13.0857087+02:00</StartDate>
-      <LastDate>2022-09-09T00:00:00</LastDate>
+      <LastDate>2024-10-13T10:51:14.2807758+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>507;508;509;510;511;512;513;522</Vehicles>
     </Train>
@@ -14019,7 +14025,7 @@
       <Id>63</Id>
       <Name>Kohlezug</Name>
       <Category>Ganzzug</Category>
-      <StartDate xsi:nil="true" />
+      <StartDate>2024-10-13T10:50:10.9161716+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>118;161;564;565;566</Vehicles>
