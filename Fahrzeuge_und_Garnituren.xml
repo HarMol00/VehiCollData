@@ -931,7 +931,7 @@
       <DecoderType>Lenz LE130 alt</DecoderType>
       <Address>51</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-05-10T00:00:00</StartDate>
+      <StartDate>2024-10-24T15:37:05.4548627+02:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 1</Storage>
@@ -7304,8 +7304,9 @@
       <Address>1020</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-10-11T22:34:41.1677233+02:00</StartDate>
-      <LastDate>2020-08-30T00:00:00</LastDate>
+      <LastDate>2024-10-24T15:37:17.2570608+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>385</Id>
