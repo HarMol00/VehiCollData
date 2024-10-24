@@ -7342,8 +7342,9 @@
       <Address>770</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2023-10-11T21:27:54.4575439+02:00</StartDate>
-      <LastDate>2020-10-30T00:00:00</LastDate>
+      <LastDate>2024-10-24T14:22:23.3287103+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>387</Id>
@@ -11267,7 +11268,7 @@
       <DecoderType>Tams LD-G-31 plus</DecoderType>
       <Address>3071</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-10-30T00:00:00</StartDate>
+      <StartDate>2024-10-24T14:22:07.5631464+02:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 2</Storage>
