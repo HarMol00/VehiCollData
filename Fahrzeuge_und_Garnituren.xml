@@ -243,7 +243,7 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>1670</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-06-21T00:00:00</StartDate>
+      <StartDate>2024-11-04T14:30:54.1113678+01:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 1</Storage>
@@ -10928,8 +10928,9 @@
       <Address>1073</Address>
       <Functions>Lichtwechsel, Führerstandsbeleuchtung</Functions>
       <StartDate>2023-10-11T22:10:54.4945625+02:00</StartDate>
-      <LastDate>2020-05-10T00:00:00</LastDate>
+      <LastDate>2024-11-04T15:47:16.7355658+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>574</Id>
@@ -11290,7 +11291,7 @@
       <DecoderType>ZIMO MX630P16</DecoderType>
       <Address>9067</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-11-08T00:00:00</StartDate>
+      <StartDate>2024-11-04T15:51:28.9023224+01:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
@@ -13229,8 +13230,9 @@
       <Address>1110</Address>
       <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
       <StartDate>2023-11-24T20:46:12.36496+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2024-11-04T14:30:31.7183738+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>691</Id>
