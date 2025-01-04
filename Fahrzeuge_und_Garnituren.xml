@@ -1049,7 +1049,7 @@
       <Manufacturer>MSE</Manufacturer>
       <ItemNumber>9510 0399</ItemNumber>
       <PurchaseDate>1993-03-24T00:00:00</PurchaseDate>
-      <Notes>2013-12-26 Motor ausgebaut (Schnecke abgerieben)</Notes>
+      <Notes>2013-12-26 Motor ausgebaut (Schnecke abgerieben); 2023-03-01 Halling Antrieb eingebaut</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
@@ -10936,7 +10936,7 @@
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>220</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>22820</ItemNumber>
       <PurchaseDate>2012-03-08T00:00:00</PurchaseDate>
       <DecoderType>Lenz Standard+</DecoderType>
@@ -11281,7 +11281,7 @@
       <Epoch>4</Epoch>
       <Scale>H0</Scale>
       <Length>180</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>26030</ItemNumber>
       <PurchaseDate>2014-11-09T00:00:00</PurchaseDate>
       <DecoderType>Lenz Standard+</DecoderType>
@@ -11487,7 +11487,7 @@
       <Epoch>3</Epoch>
       <Scale>H0</Scale>
       <Length>124</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>26730</ItemNumber>
       <PurchaseDate>2015-12-16T00:00:00</PurchaseDate>
       <DecoderType>ZIMO MX630R</DecoderType>
@@ -12207,7 +12207,7 @@
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>303</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>76202</ItemNumber>
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
@@ -12227,7 +12227,7 @@
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>303</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>76202</ItemNumber>
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
@@ -12247,7 +12247,7 @@
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>303</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>76202</ItemNumber>
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
@@ -12267,7 +12267,7 @@
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>303</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>76202</ItemNumber>
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
@@ -12287,7 +12287,7 @@
       <Epoch>5</Epoch>
       <Scale>H0</Scale>
       <Length>303</Length>
-      <Manufacturer>Jägerndorfer Collect</Manufacturer>
+      <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>76202</ItemNumber>
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
