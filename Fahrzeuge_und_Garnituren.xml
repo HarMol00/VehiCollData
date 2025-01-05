@@ -12618,6 +12618,7 @@
     <Vehicle>
       <Id>660</Id>
       <Number>23 88 8488-95-34</Number>
+      <Category>Staubsauger</Category>
       <IsEngine>false</IsEngine>
       <Operator>DB</Operator>
       <WheelArrangement>2'2'</WheelArrangement>
@@ -12627,7 +12628,7 @@
       <Manufacturer>Lux</Manufacturer>
       <ItemNumber>8811</ItemNumber>
       <PurchaseDate>2003-01-07T00:00:00</PurchaseDate>
-      <Notes>Staubsauger</Notes>
+      <Notes>2025-01-05: Geschwindigkeitstabelle alle Werte auf 140</Notes>
       <DecoderType>Kühn T121</DecoderType>
       <Address>9999</Address>
       <StartDate xsi:nil="true" />
