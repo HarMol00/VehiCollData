@@ -1049,10 +1049,11 @@
       <ItemNumber>9510 0399</ItemNumber>
       <PurchaseDate>1993-03-24T00:00:00</PurchaseDate>
       <Notes>2013-12-26 Motor ausgebaut (Schnecke abgerieben); 2023-03-01 Halling Antrieb eingebaut</Notes>
-      <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <DecoderType>ZIMO MX600</DecoderType>
+      <Address>614</Address>
+      <StartDate>2025-01-05T20:46:42.4498204+01:00</StartDate>
       <LastDate xsi:nil="true" />
-      <TrainId>0</TrainId>
+      <TrainId>66</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>57</Id>
@@ -2453,7 +2454,7 @@
     <Vehicle>
       <Id>130</Id>
       <Number>KIX</Number>
-      <Category>Flachwagen</Category>
+      <Category>Lore</Category>
       <IsEngine>false</IsEngine>
       <Operator>ÖBB</Operator>
       <WheelArrangement>2</WheelArrangement>
@@ -2471,7 +2472,7 @@
     <Vehicle>
       <Id>131</Id>
       <Number>KIX</Number>
-      <Category>Flachwagen</Category>
+      <Category>Lore</Category>
       <IsEngine>false</IsEngine>
       <Operator>ÖBB</Operator>
       <WheelArrangement>2</WheelArrangement>
@@ -14052,6 +14053,15 @@
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>338;339;371;372;427</Vehicles>
+    </Train>
+    <Train>
+      <Id>66</Id>
+      <Name>Bahnmeister 1</Name>
+      <Category>Bauzug</Category>
+      <StartDate>2025-01-05T20:46:42.4498204+01:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <EngineId>56</EngineId>
+      <Vehicles>130;131</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
