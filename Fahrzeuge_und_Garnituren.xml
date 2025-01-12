@@ -4252,7 +4252,7 @@
       <StartDate>2022-10-16T00:00:00</StartDate>
       <LastDate>2023-11-17T17:19:03.3434069+01:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Dampf | 3</Storage>
+      <Storage>Dampf | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>225</Id>
@@ -11639,7 +11639,7 @@
       <StartDate>2022-09-09T00:00:00</StartDate>
       <LastDate>2023-10-11T20:30:24.5494393+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Dampf | 3</Storage>
+      <Storage>Dampf | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>611</Id>
