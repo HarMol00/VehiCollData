@@ -709,8 +709,9 @@
       <PurchaseDate xsi:nil="true" />
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>39</Id>
@@ -3478,8 +3479,9 @@
       <Address>1118</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-01-28T11:54:09.0030941+01:00</StartDate>
-      <LastDate>2020-12-06T00:00:00</LastDate>
+      <LastDate>2025-01-26T14:17:42.8809372+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>185</Id>
@@ -3538,8 +3540,9 @@
       <PurchaseDate>1997-02-08T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>188</Id>
@@ -4230,8 +4233,9 @@
       <PurchaseDate>1997-10-17T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>224</Id>
@@ -5012,8 +5016,9 @@
       <Notes>Speisewagen</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>264</Id>
@@ -8632,8 +8637,9 @@
       <PurchaseDate>2005-05-12T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>455</Id>
@@ -8650,8 +8656,9 @@
       <PurchaseDate>2005-05-12T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>456</Id>
@@ -8668,8 +8675,9 @@
       <PurchaseDate>2005-05-12T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>457</Id>
@@ -8873,8 +8881,9 @@
       <PurchaseDate>2005-10-20T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>468</Id>
@@ -8891,8 +8900,9 @@
       <PurchaseDate>2005-10-20T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 6 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>469</Id>
@@ -11594,7 +11604,7 @@
       <DecoderType>ZIMO MX623P12</DecoderType>
       <Address>4501</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-12-27T00:00:00</StartDate>
+      <StartDate>2025-01-26T14:18:18.8822519+01:00</StartDate>
       <LastDate>2022-01-05T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 4</Storage>
@@ -11916,10 +11926,9 @@
       <PurchaseDate>2018-08-17T00:00:00</PurchaseDate>
       <Notes>TEE Mediolanum</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-26T14:22:30.5005029+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>625</Id>
@@ -11936,10 +11945,9 @@
       <PurchaseDate>2018-08-17T00:00:00</PurchaseDate>
       <Notes>TEE Mediolanum</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-26T14:22:30.5005029+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>626</Id>
@@ -11956,10 +11964,9 @@
       <PurchaseDate>2018-08-17T00:00:00</PurchaseDate>
       <Notes>TEE Mediolanum</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-26T14:22:30.5005029+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>627</Id>
@@ -11976,10 +11983,9 @@
       <PurchaseDate>2018-08-17T00:00:00</PurchaseDate>
       <Notes>TEE Mediolanum</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-26T14:22:30.5005029+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>628</Id>
@@ -11996,10 +12002,9 @@
       <PurchaseDate>2018-08-17T00:00:00</PurchaseDate>
       <Notes>TEE Mediolanum</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-26T14:22:30.5005029+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>629</Id>
@@ -13635,7 +13640,7 @@
       <Id>19</Id>
       <Name>TEE Mediolanum</Name>
       <Category>Schnellzug</Category>
-      <StartDate>2021-11-28T00:00:00</StartDate>
+      <StartDate>2025-01-26T14:22:30.5005029+01:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>624;625;626;627;628</Vehicles>
@@ -13906,7 +13911,7 @@
       <Name>Schnellzug gn 3</Name>
       <Category>Schnellzug</Category>
       <StartDate>2024-01-28T11:46:37.9905725+01:00</StartDate>
-      <LastDate>2022-08-18T00:00:00</LastDate>
+      <LastDate>2025-01-26T14:17:28.9813022+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>38;187;223;263;454;455;456;467;468</Vehicles>
     </Train>
