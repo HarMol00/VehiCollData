@@ -1093,8 +1093,9 @@
       <Address>4010</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate>2020-04-05T00:00:00</LastDate>
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <TrainId>30</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>59</Id>
@@ -1112,8 +1113,9 @@
       <Notes>Transalpin</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>60</Id>
@@ -1131,8 +1133,9 @@
       <Notes>Transalpin</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>61</Id>
@@ -1150,8 +1153,9 @@
       <Notes>Transalpin</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>62</Id>
@@ -1169,8 +1173,9 @@
       <Notes>Transalpin</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>63</Id>
@@ -1190,8 +1195,9 @@
       <Address>4010</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>64</Id>
@@ -10329,10 +10335,9 @@
       <PurchaseDate>2009-11-02T00:00:00</PurchaseDate>
       <Notes>N28</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-31T10:43:44.1735666+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>544</Id>
@@ -10349,10 +10354,9 @@
       <PurchaseDate>2009-11-02T00:00:00</PurchaseDate>
       <Notes>N28</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-31T10:43:44.1735666+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>545</Id>
@@ -10369,10 +10373,9 @@
       <PurchaseDate>2009-11-02T00:00:00</PurchaseDate>
       <Notes>N28</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-31T10:43:44.1735666+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>546</Id>
@@ -10389,10 +10392,9 @@
       <PurchaseDate>2009-11-02T00:00:00</PurchaseDate>
       <Notes>N28</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-01-31T10:43:44.1735666+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>547</Id>
@@ -13613,7 +13615,7 @@
       <Id>16</Id>
       <Name>Westbahn-Pendler</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2017-07-01T00:00:00</StartDate>
+      <StartDate>2025-01-31T10:43:44.1735666+01:00</StartDate>
       <LastDate>2020-05-10T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>543;544;545;546</Vehicles>
@@ -13740,7 +13742,7 @@
       <Name>Transalpin</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2024-01-30T21:00:54.5801409+01:00</StartDate>
-      <LastDate>2020-04-05T00:00:00</LastDate>
+      <LastDate>2025-01-31T11:51:38.6544738+01:00</LastDate>
       <EngineId>58</EngineId>
       <Vehicles>59;60;61;62;63</Vehicles>
     </Train>
