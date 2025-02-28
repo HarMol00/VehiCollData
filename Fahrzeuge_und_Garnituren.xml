@@ -4979,8 +4979,9 @@
       <DecoderType>ZIMO MX62</DecoderType>
       <Address>111</Address>
       <StartDate>2024-02-25T11:48:11.0143376+01:00</StartDate>
-      <LastDate>2020-11-08T00:00:00</LastDate>
+      <LastDate>2025-02-28T11:17:10.7110486+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>262</Id>
@@ -12614,7 +12615,7 @@
       <DecoderType>ZIMO</DecoderType>
       <Address>2062</Address>
       <Functions>Lichtwechsel, Sound, Kupplung</Functions>
-      <StartDate>2020-10-30T00:00:00</StartDate>
+      <StartDate>2025-02-28T11:16:03.3094628+01:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
