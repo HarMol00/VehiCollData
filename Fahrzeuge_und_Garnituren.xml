@@ -13489,8 +13489,9 @@
       <Address>491</Address>
       <Functions>Lichtwechsel, usw.</Functions>
       <StartDate>2024-09-26T00:00:00+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-02T15:14:19.323133+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
   </Vehicles>
   <Trains>
