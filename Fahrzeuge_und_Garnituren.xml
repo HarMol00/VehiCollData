@@ -13493,6 +13493,26 @@
       <TrainId>0</TrainId>
       <Storage>Diesel | Spezial</Storage>
     </Vehicle>
+    <Vehicle>
+      <Id>703</Id>
+      <Number>1280.06</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>E</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>139</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>22500</ItemNumber>
+      <PurchaseDate>2025-03-13T00:00:00+01:00</PurchaseDate>
+      <DecoderType>ESU LokPilot 5 DCC</DecoderType>
+      <Address>1280</Address>
+      <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
