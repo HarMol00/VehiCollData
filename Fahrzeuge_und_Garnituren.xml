@@ -10987,8 +10987,9 @@
       <Address>2045</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-03-10T09:35:45.279636+01:00</StartDate>
-      <LastDate>2020-07-16T00:00:00</LastDate>
+      <LastDate>2025-03-16T10:09:57.5095235+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>576</Id>
@@ -13509,7 +13510,7 @@
       <DecoderType>ESU LokPilot 5 DCC</DecoderType>
       <Address>1280</Address>
       <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-03-16T10:10:07.9494916+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
