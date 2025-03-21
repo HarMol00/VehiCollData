@@ -11207,8 +11207,9 @@
       <Address>38</Address>
       <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2024-03-10T13:11:09.8094869+01:00</StartDate>
-      <LastDate>2020-10-30T00:00:00</LastDate>
+      <LastDate>2025-03-21T15:00:27.2728003+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>587</Id>
@@ -12636,7 +12637,7 @@
       <PurchaseDate>2020-11-13T00:00:00</PurchaseDate>
       <DecoderType>ZIMO MX630R</DecoderType>
       <Address>1072</Address>
-      <StartDate>2020-11-14T00:00:00</StartDate>
+      <StartDate>2025-03-21T16:15:33.4710112+01:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 1</Storage>
