@@ -361,7 +361,7 @@
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate xsi:nil="true" />
       <DecoderType>Lenz LE130</DecoderType>
-      <Address>1110</Address>
+      <Address>8110</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2022-02-06T00:00:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
@@ -13263,7 +13263,7 @@
       <ItemNumber>51772</ItemNumber>
       <PurchaseDate>2023-11-24T00:00:00+01:00</PurchaseDate>
       <DecoderType>ZIMO MN330P22</DecoderType>
-      <Address>1110</Address>
+      <Address>9110</Address>
       <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
       <StartDate>2023-11-24T20:46:12.36496+01:00</StartDate>
       <LastDate>2024-11-04T14:30:31.7183738+01:00</LastDate>
@@ -13521,6 +13521,27 @@
       <Address>1280</Address>
       <Functions>Lichtwechsel, Führerstandsbel., Maschinenraumbel.</Functions>
       <StartDate>2025-03-16T10:10:07.9494916+01:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>704</Id>
+      <Number>1110.17</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Co'Co'</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>205</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>04198A</ItemNumber>
+      <PurchaseDate>2024-09-14T00:00:00</PurchaseDate>
+      <Notes>gebraucht Börse Lienz</Notes>
+      <DecoderType>Lenz Standard+</DecoderType>
+      <Address>1110</Address>
+      <Functions>Lichtwechsel</Functions>
+      <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
