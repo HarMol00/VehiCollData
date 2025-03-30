@@ -1031,10 +1031,9 @@
       <ItemNumber>9510 0730</ItemNumber>
       <PurchaseDate>1994-06-03T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-03-30T14:41:08.1298362+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>56</Id>
@@ -1385,10 +1384,9 @@
       <ItemNumber>44217</ItemNumber>
       <PurchaseDate xsi:nil="true" />
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-03-30T14:41:08.1298362+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>74</Id>
@@ -2539,10 +2537,9 @@
       <ItemNumber>9510 0731</ItemNumber>
       <PurchaseDate>1995-09-06T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-03-30T14:41:08.1298362+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>135</Id>
@@ -3997,10 +3994,9 @@
       <ItemNumber>44217</ItemNumber>
       <PurchaseDate>1997-06-10T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-03-30T14:41:08.1298362+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>212</Id>
@@ -6494,8 +6490,9 @@
       <PurchaseDate>2000-08-08T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-30T15:10:53.0480056+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>343</Id>
@@ -6512,8 +6509,9 @@
       <PurchaseDate>2000-08-08T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-30T15:10:53.0480056+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>344</Id>
@@ -6530,8 +6528,9 @@
       <PurchaseDate>2000-08-08T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-30T15:10:53.0480056+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>345</Id>
@@ -6548,8 +6547,9 @@
       <PurchaseDate>2000-08-08T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-30T15:10:53.0480056+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>346</Id>
@@ -6566,8 +6566,9 @@
       <PurchaseDate>2000-08-08T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-30T15:10:53.0480056+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>347</Id>
@@ -9074,10 +9075,9 @@
       <ItemNumber>45088</ItemNumber>
       <PurchaseDate>2006-05-26T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-03-30T14:41:08.1298362+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 4 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>478</Id>
@@ -13923,7 +13923,7 @@
       <Id>43</Id>
       <Name>Bi geschl. Plattform</Name>
       <Category>Personenzug</Category>
-      <StartDate>2021-12-19T00:00:00</StartDate>
+      <StartDate>2025-03-30T14:41:08.1298362+02:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>55;73;134;211;477</Vehicles>
@@ -13951,7 +13951,7 @@
       <Name>Liliput altösterr.</Name>
       <Category>Personenzug</Category>
       <StartDate>2024-04-04T17:23:30.5602975+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-03-30T15:10:53.0480056+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>342;343;344;345;346</Vehicles>
     </Train>
