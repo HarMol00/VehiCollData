@@ -2386,8 +2386,9 @@
       <Address>7724</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-15T10:56:23.7351685+02:00</StartDate>
-      <LastDate>2021-03-07T00:00:00</LastDate>
+      <LastDate>2025-04-04T15:38:15.8851256+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>127</Id>
@@ -3150,7 +3151,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>2065</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-02-14T00:00:00</StartDate>
+      <StartDate>2025-04-04T15:48:17.9599237+02:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
@@ -8138,8 +8139,9 @@
       <Address>1161</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-15T14:54:53.4121517+02:00</StartDate>
-      <LastDate>2020-12-27T00:00:00</LastDate>
+      <LastDate>2025-04-04T14:17:59.1920554+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>429</Id>
