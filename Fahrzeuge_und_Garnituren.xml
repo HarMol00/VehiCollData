@@ -8832,8 +8832,9 @@
       <Address>5146</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2024-04-15T14:51:37.687558+02:00</StartDate>
-      <LastDate>2021-11-28T00:00:00</LastDate>
+      <LastDate>2025-04-07T16:42:31.9148486+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>465</Id>
