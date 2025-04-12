@@ -780,8 +780,9 @@
       <Notes>Blauer Enzian</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>43</Id>
@@ -798,8 +799,9 @@
       <Notes>Blauer Enzian</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>44</Id>
@@ -816,8 +818,9 @@
       <Notes>Blauer Enzian</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>45</Id>
@@ -834,8 +837,9 @@
       <Notes>Blauer Enzian</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>46</Id>
@@ -852,8 +856,9 @@
       <Notes>Blauer Enzian</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>47</Id>
@@ -1651,10 +1656,9 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>103</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-06-07T00:00:00</StartDate>
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <TrainId>0</TrainId>
-      <Storage>Elektro | 5</Storage>
+      <TrainId>35</TrainId>
     </Vehicle>
     <Vehicle>
       <Id>89</Id>
@@ -2028,8 +2032,9 @@
       <Address>200</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate>2020-10-30T00:00:00</LastDate>
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <TrainId>28</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>108</Id>
@@ -9812,10 +9817,9 @@
       <PurchaseDate>2007-12-31T00:00:00</PurchaseDate>
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>516</Id>
@@ -9832,10 +9836,9 @@
       <PurchaseDate>2007-12-31T00:00:00</PurchaseDate>
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>517</Id>
@@ -9852,10 +9855,9 @@
       <PurchaseDate>2007-12-31T00:00:00</PurchaseDate>
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>518</Id>
@@ -9872,10 +9874,9 @@
       <PurchaseDate>2007-12-31T00:00:00</PurchaseDate>
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>519</Id>
@@ -9892,10 +9893,9 @@
       <PurchaseDate>2008-01-07T00:00:00</PurchaseDate>
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>520</Id>
@@ -9912,10 +9912,9 @@
       <PurchaseDate>2008-01-07T00:00:00</PurchaseDate>
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>521</Id>
@@ -13792,7 +13791,7 @@
       <Name>Blauer Enzian</Name>
       <Category>Sonderzug</Category>
       <StartDate>2024-04-15T10:31:55.1294288+02:00</StartDate>
-      <LastDate>2024-04-15T10:31:28.4517032+02:00</LastDate>
+      <LastDate>2025-04-12T19:27:52.2890393+02:00</LastDate>
       <EngineId>107</EngineId>
       <Vehicles>42;43;44;45;46</Vehicles>
     </Train>
@@ -13854,9 +13853,9 @@
       <Id>35</Id>
       <Name>TEE Rheingold</Name>
       <Category>Sonderzug</Category>
-      <StartDate>2020-06-07T00:00:00</StartDate>
+      <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
-      <EngineId>0</EngineId>
+      <EngineId>87</EngineId>
       <Vehicles>515;516;517;518;519;520</Vehicles>
     </Train>
     <Train>
