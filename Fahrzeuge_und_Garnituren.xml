@@ -143,8 +143,9 @@
       <Address>658</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-15T15:15:41.7048226+02:00</StartDate>
-      <LastDate>2021-02-14T00:00:00</LastDate>
+      <LastDate>2025-04-14T16:00:58.4934707+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>8</Id>
@@ -9797,7 +9798,7 @@
       <DecoderType>ZIMO MX63R</DecoderType>
       <Address>9379</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-02-08T00:00:00</StartDate>
+      <StartDate>2025-04-14T15:46:55.9109054+02:00</StartDate>
       <LastDate>2022-08-18T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 1</Storage>
