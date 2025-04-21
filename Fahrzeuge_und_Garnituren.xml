@@ -10212,7 +10212,7 @@
       <DecoderType>ZIMO MX64R</DecoderType>
       <Address>9116</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-03-07T00:00:00</StartDate>
+      <StartDate>2025-04-21T20:45:35.029356+02:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 4</Storage>
@@ -12197,10 +12197,9 @@
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>638</Id>
@@ -12217,10 +12216,9 @@
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>639</Id>
@@ -12237,10 +12235,9 @@
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>640</Id>
@@ -12257,10 +12254,9 @@
       <PurchaseDate>2019-05-09T00:00:00</PurchaseDate>
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>641</Id>
@@ -12279,10 +12275,9 @@
       <DecoderType>Kühn T121</DecoderType>
       <Address>8033</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>642</Id>
@@ -13285,8 +13280,9 @@
       <Address>503</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>61</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>692</Id>
@@ -13304,8 +13300,9 @@
       <Notes>Astoro Ergänzungsset</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>693</Id>
@@ -13322,8 +13319,9 @@
       <Notes>Astoro Ergänzungsset</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>694</Id>
@@ -13340,8 +13338,9 @@
       <Notes>Astoro Basisset</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>695</Id>
@@ -13358,8 +13357,9 @@
       <Notes>Astoro Basisset</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>696</Id>
@@ -13377,8 +13377,9 @@
       <Notes>Astoro Ergänzungsset</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>697</Id>
@@ -13396,8 +13397,9 @@
       <Notes>Astoro Basisset</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 2 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>698</Id>
@@ -13728,7 +13730,7 @@
       <Id>21</Id>
       <Name>CityShuttle Wiesel</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2019-05-12T00:00:00</StartDate>
+      <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate>2020-08-13T00:00:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>637;638;639;640;641</Vehicles>
@@ -14089,7 +14091,7 @@
       <Name>Astoro</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2024-04-18T11:48:35.3118811+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-04-21T19:37:46.0149267+02:00</LastDate>
       <EngineId>691</EngineId>
       <Vehicles>692;693;694;695;696;697</Vehicles>
     </Train>
