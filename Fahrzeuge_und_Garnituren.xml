@@ -6128,8 +6128,9 @@
       <Address>1045</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-20T14:45:51.1994015+02:00</StartDate>
-      <LastDate>2021-02-14T00:00:00</LastDate>
+      <LastDate>2025-04-25T14:28:54.2648076+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>323</Id>
@@ -12358,7 +12359,7 @@
       <DecoderType>ZIMO MX630P16</DecoderType>
       <Address>1293</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-05-10T00:00:00</StartDate>
+      <StartDate>2025-04-25T14:33:33.1889699+02:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 5</Storage>
