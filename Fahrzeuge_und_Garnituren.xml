@@ -4539,7 +4539,7 @@
       <DecoderType>Lenz LE131XF</DecoderType>
       <Address>7769</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-03-21T00:00:00</StartDate>
+      <StartDate>2025-04-27T11:30:28.1280953+02:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 1</Storage>
@@ -6480,8 +6480,9 @@
       <Address>2043</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-04-28T12:26:28.8684301+02:00</StartDate>
-      <LastDate>2021-09-19T00:00:00</LastDate>
+      <LastDate>2025-04-27T11:28:30.4777886+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>342</Id>
@@ -9935,8 +9936,9 @@
       <Address>1012</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-05-02T16:13:57.2658162+02:00</StartDate>
-      <LastDate>2021-03-07T00:00:00</LastDate>
+      <LastDate>2025-04-27T11:17:26.2215793+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>522</Id>
