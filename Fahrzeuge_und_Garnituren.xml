@@ -13544,10 +13544,10 @@
       <ItemNumber>04198A</ItemNumber>
       <PurchaseDate>2024-09-14T00:00:00</PurchaseDate>
       <Notes>gebraucht Börse Lienz</Notes>
-      <DecoderType>Lenz Standard+</DecoderType>
+      <DecoderType>ZIMO MX600R</DecoderType>
       <Address>1110</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-05-10T20:38:03.1800919+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
