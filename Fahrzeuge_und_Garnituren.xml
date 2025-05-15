@@ -241,11 +241,12 @@
       <Length>165</Length>
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate xsi:nil="true" />
+      <Notes>2025-05-15: Motor wird auch ohne Last extrem heiß</Notes>
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>1670</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-11-04T14:30:54.1113678+01:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2025-05-15T20:52:13.5021974+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 1</Storage>
     </Vehicle>
@@ -8034,7 +8035,7 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>1010</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-12-06T00:00:00</StartDate>
+      <StartDate>2025-05-15T20:51:54.306724+02:00</StartDate>
       <LastDate>2022-02-06T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 1</Storage>
