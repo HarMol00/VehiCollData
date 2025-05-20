@@ -13548,6 +13548,26 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>705</Id>
+      <Number>1670.02</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>(1A)'B(A1)'</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>165</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>7500047</ItemNumber>
+      <PurchaseDate>2025-05-20T00:00:00+02:00</PurchaseDate>
+      <DecoderType>ESU LokPilot 5</DecoderType>
+      <Address>1670</Address>
+      <Functions>Lichtwechsel, Führerstandsbel.</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
