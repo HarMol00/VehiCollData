@@ -3184,7 +3184,7 @@
       <Notes>2017-01-15 Pufferkondensator 220 µF eingebaut</Notes>
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>92</Address>
-      <StartDate>2022-01-05T00:00:00</StartDate>
+      <StartDate>2025-05-29T07:58:23.5264064+02:00</StartDate>
       <LastDate>2023-02-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -3780,8 +3780,9 @@
       <Address>688</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-05-27T17:42:13.5668686+02:00</StartDate>
-      <LastDate>2024-05-18T10:34:38.395543+02:00</LastDate>
+      <LastDate>2025-05-29T09:23:40.3697843+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>200</Id>
@@ -3952,7 +3953,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>156</Address>
       <Functions>Lichtwechsel (nur hinten)</Functions>
-      <StartDate>2023-03-05T00:00:00+01:00</StartDate>
+      <StartDate>2025-05-29T08:45:42.0822335+02:00</StartDate>
       <LastDate>2023-03-05T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
     </Vehicle>
@@ -8032,7 +8033,7 @@
       <Manufacturer>Roco</Manufacturer>
       <ItemNumber>63792</ItemNumber>
       <PurchaseDate>2004-02-04T00:00:00</PurchaseDate>
-      <DecoderType>ZIMO MX63</DecoderType>
+      <DecoderType>Lenz Standard+</DecoderType>
       <Address>1010</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-05-15T20:51:54.306724+02:00</StartDate>
@@ -9456,8 +9457,9 @@
       <Address>156</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-05-18T10:34:24.8958817+02:00</StartDate>
-      <LastDate>2024-03-24T12:26:12.5857677+01:00</LastDate>
+      <LastDate>2025-05-29T07:48:08.8550591+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>497</Id>
