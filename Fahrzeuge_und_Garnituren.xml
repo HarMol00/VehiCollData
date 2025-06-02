@@ -13563,7 +13563,7 @@
       <Manufacturer>Roco</Manufacturer>
       <ItemNumber>7500047</ItemNumber>
       <PurchaseDate>2025-05-20T00:00:00+02:00</PurchaseDate>
-      <DecoderType>ESU LokPilot 5</DecoderType>
+      <DecoderType>ESU LokPilot 5 DCC</DecoderType>
       <Address>1670</Address>
       <Functions>Lichtwechsel, Führerstandsbel.</Functions>
       <StartDate xsi:nil="true" />
