@@ -13566,7 +13566,7 @@
       <DecoderType>ESU LokPilot 5 DCC</DecoderType>
       <Address>1670</Address>
       <Functions>Lichtwechsel, Führerstandsbel.</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-06-08T11:44:54.1186741+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
