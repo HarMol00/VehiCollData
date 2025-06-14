@@ -1626,8 +1626,9 @@
       <Length>187</Length>
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate xsi:nil="true" />
-      <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <DecoderType>ZIMO MX63</DecoderType>
+      <Address>116</Address>
+      <StartDate>2025-06-14T10:45:43.7776621+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
       <Storage>Vitrine</Storage>
