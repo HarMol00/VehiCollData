@@ -202,7 +202,7 @@
       <DecoderType>Lenz LE130 alt</DecoderType>
       <Address>52</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-12-19T00:00:00</StartDate>
+      <StartDate>2025-06-22T12:33:45.138733+02:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
@@ -880,7 +880,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>5081</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-11-28T00:00:00</StartDate>
+      <StartDate>2025-06-22T12:28:33.2667229+02:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Koffer 1</Storage>
@@ -13463,9 +13463,9 @@
       <Address>9068</Address>
       <Functions>Lichtwechsel, Führerstandsbel.</Functions>
       <StartDate>2024-07-28T20:20:13.6178645+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-06-22T09:26:27.021938+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Diesel | 1</Storage>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>701</Id>
