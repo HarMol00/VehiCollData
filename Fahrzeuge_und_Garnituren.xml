@@ -2064,8 +2064,9 @@
       <Notes>Eurofima</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>109</Id>
@@ -3261,10 +3262,9 @@
       <PurchaseDate xsi:nil="true" />
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>173</Id>
@@ -3280,10 +3280,9 @@
       <PurchaseDate xsi:nil="true" />
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>174</Id>
@@ -3299,10 +3298,9 @@
       <PurchaseDate xsi:nil="true" />
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>175</Id>
@@ -3318,10 +3316,9 @@
       <PurchaseDate xsi:nil="true" />
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>176</Id>
@@ -3337,10 +3334,9 @@
       <PurchaseDate xsi:nil="true" />
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>177</Id>
@@ -3356,10 +3352,9 @@
       <PurchaseDate xsi:nil="true" />
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>178</Id>
@@ -6165,8 +6160,9 @@
       <Notes>Eurofima</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>324</Id>
@@ -6184,8 +6180,9 @@
       <Notes>Eurofima</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>325</Id>
@@ -6203,8 +6200,9 @@
       <Notes>Eurofima</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>326</Id>
@@ -6396,8 +6394,9 @@
       <Notes>Eurofima Gepäckabteil</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>336</Id>
@@ -6415,8 +6414,9 @@
       <Notes>Eurofima Speisewagen</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>337</Id>
@@ -7043,8 +7043,9 @@
       <Notes>Eurofima</Notes>
       <Address xsi:nil="true" />
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 3 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>371</Id>
@@ -13484,9 +13485,9 @@
       <Address>1142</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-08-19T15:35:47.5463713+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2025-07-24T08:49:22.0542865+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 3</Storage>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>702</Id>
@@ -13571,6 +13572,25 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>706</Id>
+      <Number>1067.01</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>C</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>121</Length>
+      <Manufacturer>Piko</Manufacturer>
+      <ItemNumber>21042</ItemNumber>
+      <PurchaseDate>2025-07-24T00:00:00+02:00</PurchaseDate>
+      <DecoderType>Piko PSD XP TrainSound</DecoderType>
+      <Address>1067</Address>
+      <StartDate>2025-07-24T09:03:49.6279734+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -13623,7 +13643,7 @@
       <Name>Eurofima rt/gr</Name>
       <Category>Schnellzug</Category>
       <StartDate>2024-08-19T15:35:15.5860136+02:00</StartDate>
-      <LastDate>2023-01-31T00:00:00</LastDate>
+      <LastDate>2025-07-24T08:47:25.5049346+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>108;323;324;325;335;336;370</Vehicles>
     </Train>
@@ -14144,7 +14164,7 @@
       <Id>64</Id>
       <Name>Hechte</Name>
       <Category>Schnellzug</Category>
-      <StartDate>2024-10-13T12:11:18.0367199+02:00</StartDate>
+      <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
       <LastDate>2024-10-13T12:11:39.3187921+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>172;173;174;175;176;177</Vehicles>
