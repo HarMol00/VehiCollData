@@ -13587,6 +13587,7 @@
       <PurchaseDate>2025-07-24T00:00:00+02:00</PurchaseDate>
       <DecoderType>Piko PSD XP TrainSound</DecoderType>
       <Address>1067</Address>
+      <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2025-07-24T09:03:49.6279734+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
