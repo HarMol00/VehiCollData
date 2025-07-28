@@ -13592,6 +13592,63 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>707</Id>
+      <Number>39 681</Number>
+      <Category>Bih</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>145</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>77400</ItemNumber>
+      <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <Functions>Innenbeleuchtung</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>708</Id>
+      <Number>39 626</Number>
+      <Category>Bih</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>145</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>77400</ItemNumber>
+      <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <Functions>Innenbeleuchtung</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>709</Id>
+      <Number>39 692</Number>
+      <Category>Bih</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>145</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>77400</ItemNumber>
+      <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <Functions>Lichtwechsel</Functions>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -14205,6 +14262,15 @@
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>132;133;171;195;255;262;272;273;437</Vehicles>
+    </Train>
+    <Train>
+      <Id>69</Id>
+      <Name>Bi 6 Fenster</Name>
+      <Category>Personenzug</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
+      <Vehicles>707;708;709</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
