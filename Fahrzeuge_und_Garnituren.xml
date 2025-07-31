@@ -882,7 +882,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-07T12:28:33.2667229+02:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>73</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
@@ -3091,7 +3091,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T11:23:07.657983+02:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>74</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
@@ -3511,7 +3511,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-03-10T00:00:00+01:00</StartDate>
       <LastDate>2024-04-15T11:23:11.3409528+02:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>71</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
@@ -8848,7 +8848,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2024-04-15T14:51:37.687558+02:00</StartDate>
       <LastDate>2025-04-07T16:42:31.9148486+02:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>72</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
@@ -11913,7 +11913,7 @@
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-08-10T21:10:43.3005339+02:00</StartDate>
       <LastDate>2023-03-10T00:00:00+01:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>70</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
@@ -13226,7 +13226,7 @@
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
       <StartDate>2023-08-12T00:00:00+02:00</StartDate>
       <LastDate>2024-08-10T21:10:56.7278804+02:00</LastDate>
-      <TrainId>0</TrainId>
+      <TrainId>75</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
@@ -14271,6 +14271,60 @@
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>707;708;709</Vehicles>
+    </Train>
+    <Train>
+      <Id>70</Id>
+      <Name>5042</Name>
+      <Category>Pendelzug N</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>622</EngineId>
+      <Vehicles />
+    </Train>
+    <Train>
+      <Id>71</Id>
+      <Name>Blauer Blitz</Name>
+      <Category>Pendelzug N</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>185</EngineId>
+      <Vehicles>186</Vehicles>
+    </Train>
+    <Train>
+      <Id>72</Id>
+      <Name>5146</Name>
+      <Category>Pendelzug N</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>464</EngineId>
+      <Vehicles>551;552</Vehicles>
+    </Train>
+    <Train>
+      <Id>73</Id>
+      <Name>Schienenbus</Name>
+      <Category>Pendelzug N</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>47</EngineId>
+      <Vehicles>48;49</Vehicles>
+    </Train>
+    <Train>
+      <Id>74</Id>
+      <Name>5044</Name>
+      <Category>Pendelzug N</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>163</EngineId>
+      <Vehicles />
+    </Train>
+    <Train>
+      <Id>75</Id>
+      <Name>5041</Name>
+      <Category>Pendelzug N</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>688</EngineId>
+      <Vehicles />
     </Train>
   </Trains>
 </DataProvider>
