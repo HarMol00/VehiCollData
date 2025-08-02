@@ -2424,7 +2424,7 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>789</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2022-08-18T00:00:00</StartDate>
+      <StartDate>2025-08-02T15:15:55.7176615+02:00</StartDate>
       <LastDate>2023-08-20T00:00:00+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 2</Storage>
@@ -3089,10 +3089,9 @@
       <DecoderType>ZIMO MX622N</DecoderType>
       <Address>5044</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
-      <StartDate>2023-03-10T00:00:00+01:00</StartDate>
+      <StartDate>2025-08-02T15:32:49.9838939+02:00</StartDate>
       <LastDate>2024-04-15T11:23:07.657983+02:00</LastDate>
       <TrainId>74</TrainId>
-      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>164</Id>
@@ -3187,8 +3186,9 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>92</Address>
       <StartDate>2025-05-29T07:58:23.5264064+02:00</StartDate>
-      <LastDate>2023-02-26T00:00:00+01:00</LastDate>
+      <LastDate>2025-08-02T15:15:35.9837737+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>169</Id>
@@ -11912,7 +11912,7 @@
       <Address>5042</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-08-10T21:10:43.3005339+02:00</StartDate>
-      <LastDate>2023-03-10T00:00:00+01:00</LastDate>
+      <LastDate>2025-08-02T15:35:40.2069666+02:00</LastDate>
       <TrainId>70</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
@@ -14277,7 +14277,7 @@
       <Name>5042</Name>
       <Category>Pendelzug N</Category>
       <StartDate>2024-08-10T21:10:43.3005339+02:00</StartDate>
-      <LastDate>2023-03-10T00:00:00+01:00</LastDate>
+      <LastDate>2025-08-02T15:35:40.2069666+02:00</LastDate>
       <EngineId>622</EngineId>
       <Vehicles />
     </Train>
@@ -14312,7 +14312,7 @@
       <Id>74</Id>
       <Name>5044</Name>
       <Category>Pendelzug N</Category>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-08-02T15:32:49.9838939+02:00</StartDate>
       <LastDate>2024-04-15T11:23:07.657983+02:00</LastDate>
       <EngineId>163</EngineId>
       <Vehicles />
