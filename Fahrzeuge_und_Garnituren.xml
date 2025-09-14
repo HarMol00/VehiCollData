@@ -13607,7 +13607,7 @@
       <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <Functions>Innenbeleuchtung</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
@@ -13626,7 +13626,7 @@
       <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <Functions>Innenbeleuchtung</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
@@ -13645,7 +13645,7 @@
       <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <Functions>Lichtwechsel</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
@@ -14267,7 +14267,7 @@
       <Id>69</Id>
       <Name>Bi 6 Fenster</Name>
       <Category>Personenzug</Category>
-      <StartDate xsi:nil="true" />
+      <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>707;708;709</Vehicles>
