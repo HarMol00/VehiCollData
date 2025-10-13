@@ -10867,7 +10867,7 @@
       <DecoderType>ZIMO MX621R</DecoderType>
       <Address>2060</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-12-19T00:00:00</StartDate>
+      <StartDate>2025-10-13T11:11:17.8986438+02:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 1</Storage>
@@ -11351,7 +11351,7 @@
       <Address>153</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-10-13T13:22:19.9074024+02:00</StartDate>
-      <LastDate>2022-01-05T00:00:00</LastDate>
+      <LastDate>2025-10-13T11:11:04.583657+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 2</Storage>
     </Vehicle>
