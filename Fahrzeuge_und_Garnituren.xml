@@ -9081,7 +9081,7 @@
       <Address>35</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-10-13T12:19:29.8922219+02:00</StartDate>
-      <LastDate>2021-11-28T00:00:00</LastDate>
+      <LastDate>2025-10-16T14:36:23.9345219+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 3</Storage>
     </Vehicle>
@@ -13654,6 +13654,44 @@
       <Address xsi:nil="true" />
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>710</Id>
+      <Number>766 787</Number>
+      <Category>Omm</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>115</Length>
+      <Manufacturer>Piko</Manufacturer>
+      <ItemNumber>54424</ItemNumber>
+      <PurchaseDate>2025-10-16T00:00:00+02:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>711</Id>
+      <Number>638.2692</Number>
+      <Category>+D</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'C</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>214</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>71393</ItemNumber>
+      <PurchaseDate>2025-10-16T00:00:00+02:00</PurchaseDate>
+      <DecoderType>ZIMO MX623P12</DecoderType>
+      <Address>638</Address>
+      <Functions>Lichtwechsel</Functions>
+      <StartDate>2025-10-16T14:35:31.2862056+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
