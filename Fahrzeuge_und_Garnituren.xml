@@ -13695,6 +13695,83 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>712</Id>
+      <Number>4748.004</Number>
+      <Category>+E</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>285</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>49800</ItemNumber>
+      <PurchaseDate>2025-10-18T00:00:00+02:00</PurchaseDate>
+      <Notes>CityJet VMOBIL</Notes>
+      <DecoderType />
+      <Address xsi:nil="true" />
+      <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>713</Id>
+      <Number>7048.004</Number>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>299</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>49800</ItemNumber>
+      <PurchaseDate>2025-10-18T00:00:00+02:00</PurchaseDate>
+      <Notes>CityJet VMOBIL</Notes>
+      <Address xsi:nil="true" />
+      <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>714</Id>
+      <Number>7048.504</Number>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>299</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>49800</ItemNumber>
+      <PurchaseDate>2025-10-18T00:00:00+02:00</PurchaseDate>
+      <Notes>CityJet VMOBIL</Notes>
+      <Address xsi:nil="true" />
+      <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>715</Id>
+      <Number>4748.504</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>285</Length>
+      <Manufacturer>Jägerndorfer</Manufacturer>
+      <ItemNumber>49800</ItemNumber>
+      <PurchaseDate>2025-10-18T00:00:00+02:00</PurchaseDate>
+      <Notes>CityJet VMOBIL</Notes>
+      <DecoderType>ESU Sound</DecoderType>
+      <Address>4748</Address>
+      <Functions>Lichtwechsel</Functions>
+      <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>76</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -14371,6 +14448,15 @@
       <LastDate>2024-08-10T21:10:56.7278804+02:00</LastDate>
       <EngineId>688</EngineId>
       <Vehicles />
+    </Train>
+    <Train>
+      <Id>76</Id>
+      <Name>CityJet</Name>
+      <Category>Pendelzug H</Category>
+      <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <EngineId>715</EngineId>
+      <Vehicles>712;713;714</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
