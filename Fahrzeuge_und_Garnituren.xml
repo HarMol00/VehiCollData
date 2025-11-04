@@ -13623,7 +13623,8 @@
       <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>77400</ItemNumber>
       <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
-      <Address xsi:nil="true" />
+      <DecoderType>ZIMO MX671N</DecoderType>
+      <Address>3962</Address>
       <Functions>Innenbeleuchtung</Functions>
       <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
@@ -13642,7 +13643,8 @@
       <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>77400</ItemNumber>
       <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
-      <Address xsi:nil="true" />
+      <DecoderType>ZIMO MX671N</DecoderType>
+      <Address>3962</Address>
       <Functions>Innenbeleuchtung</Functions>
       <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
@@ -13661,7 +13663,8 @@
       <Manufacturer>Jägerndorfer</Manufacturer>
       <ItemNumber>77400</ItemNumber>
       <PurchaseDate>2025-07-24T00:00:00</PurchaseDate>
-      <Address xsi:nil="true" />
+      <DecoderType>ZIMO MX671N</DecoderType>
+      <Address>3962</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-09-14T11:19:58.4128672+02:00</StartDate>
       <LastDate xsi:nil="true" />
