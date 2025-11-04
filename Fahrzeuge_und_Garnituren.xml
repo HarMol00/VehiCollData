@@ -13785,6 +13785,25 @@
       <LastDate xsi:nil="true" />
       <TrainId>76</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>716</Id>
+      <Number>140 801</Number>
+      <Category>Gms</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>3</Epoch>
+      <Scale>H0</Scale>
+      <Length>105</Length>
+      <Manufacturer>Brawa</Manufacturer>
+      <ItemNumber>47938</ItemNumber>
+      <PurchaseDate>2025-11-04T00:00:00+01:00</PurchaseDate>
+      <Notes>Stroh Rum</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
