@@ -5295,7 +5295,7 @@
       <DecoderType>Lenz Standard</DecoderType>
       <Address>2048</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-03-07T00:00:00</StartDate>
+      <StartDate>2025-11-07T07:04:11.1445335+01:00</StartDate>
       <LastDate>2022-09-09T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
@@ -11340,7 +11340,7 @@
       <Address>9067</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2024-11-04T15:51:28.9023224+01:00</StartDate>
-      <LastDate>2021-12-19T00:00:00</LastDate>
+      <LastDate>2025-11-07T07:04:08.160894+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
     </Vehicle>
