@@ -4770,7 +4770,7 @@
       <DecoderType>ZIMO MX61</DecoderType>
       <Address>1014</Address>
       <Functions>Lichtwechsel, Fernlicht</Functions>
-      <StartDate>2021-06-06T00:00:00</StartDate>
+      <StartDate>2026-01-03T18:06:18.9266051+01:00</StartDate>
       <LastDate>2023-02-11T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 3</Storage>
@@ -11650,9 +11650,9 @@
       <Address>4501</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-01-26T14:18:18.8822519+01:00</StartDate>
-      <LastDate>2022-01-05T00:00:00</LastDate>
+      <LastDate>2026-01-03T18:06:27.2930467+01:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 4</Storage>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>609</Id>
