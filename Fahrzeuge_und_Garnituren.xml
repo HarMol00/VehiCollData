@@ -505,8 +505,9 @@
       <Notes>Jaffa-Schlieren</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-01-01T11:11:15.2681524+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-01-10T10:50:58.7392414+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 5 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>26</Id>
@@ -3903,8 +3904,9 @@
       <PurchaseDate>1997-04-19T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-01-01T11:11:15.2681524+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-01-10T10:50:58.7392414+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 5 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>206</Id>
@@ -8545,8 +8547,9 @@
       <Notes>Mitteleinstiegswagen Jaffa</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-01-01T11:11:15.2681524+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-01-10T10:50:58.7392414+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 5 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>448</Id>
@@ -8564,8 +8567,9 @@
       <Notes>Jaffa-Schlieren</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-01-01T11:11:15.2681524+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-01-10T10:50:58.7392414+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 5 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>449</Id>
@@ -11670,7 +11674,7 @@
       <DecoderType>Lenz Silver+PluX12</DecoderType>
       <Address>4061</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-06-06T00:00:00</StartDate>
+      <StartDate>2026-01-10T10:51:09.3351271+01:00</StartDate>
       <LastDate>2023-02-18T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 2</Storage>
@@ -12663,7 +12667,7 @@
       <DecoderType>ZIMO MX630R</DecoderType>
       <Address>1072</Address>
       <StartDate>2025-03-21T16:15:33.4710112+01:00</StartDate>
-      <LastDate>2021-12-19T00:00:00</LastDate>
+      <LastDate>2026-01-10T11:15:28.5009571+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 1</Storage>
     </Vehicle>
@@ -14161,7 +14165,7 @@
       <Name>Eilzug Jaffa</Name>
       <Category>Eilzug</Category>
       <StartDate>2025-01-01T11:11:15.2681524+01:00</StartDate>
-      <LastDate>2021-11-28T00:00:00</LastDate>
+      <LastDate>2026-01-10T10:50:58.7392414+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>25;205;447;448</Vehicles>
     </Train>
