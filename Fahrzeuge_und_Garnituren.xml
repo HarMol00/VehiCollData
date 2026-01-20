@@ -11505,7 +11505,7 @@
       <PurchaseDate>2015-12-16T00:00:00</PurchaseDate>
       <DecoderType>ZIMO MX630R</DecoderType>
       <Address>1062</Address>
-      <Functions>Lichtwechsel</Functions>
+      <Functions>Lichtwechsel, Triebwerksbeleuchtung</Functions>
       <StartDate>2025-10-23T14:38:14.3368518+02:00</StartDate>
       <LastDate>2023-01-31T00:00:00</LastDate>
       <TrainId>0</TrainId>
