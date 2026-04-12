@@ -883,7 +883,7 @@
       <Address>5081</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-07T12:28:33.2667229+02:00</StartDate>
-      <LastDate>2023-03-10T00:00:00+01:00</LastDate>
+      <LastDate>2026-04-12T09:11:08.6454113+02:00</LastDate>
       <TrainId>73</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
@@ -904,7 +904,7 @@
       <Address>5081</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate xsi:nil="true" />
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:11:08.6454113+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
@@ -923,7 +923,7 @@
       <Notes>Schienenbus</Notes>
       <Address xsi:nil="true" />
       <StartDate xsi:nil="true" />
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:11:08.6454113+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Koffer 1</Storage>
     </Vehicle>
@@ -1668,8 +1668,9 @@
       <Address>103</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>35</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>89</Id>
@@ -1686,7 +1687,7 @@
       <DecoderType>ZIMO MX617</DecoderType>
       <Address>9045</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-02-14T00:00:00</StartDate>
+      <StartDate>2026-04-12T09:19:12.6023421+02:00</StartDate>
       <LastDate>2022-02-14T00:00:00</LastDate>
       <TrainId>37</TrainId>
       <Storage>Vitrine</Storage>
@@ -1704,10 +1705,9 @@
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate xsi:nil="true" />
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T09:19:12.6023421+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>91</Id>
@@ -1722,10 +1722,9 @@
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate xsi:nil="true" />
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T09:19:12.6023421+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>92</Id>
@@ -1740,10 +1739,9 @@
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate xsi:nil="true" />
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T09:19:12.6023421+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>93</Id>
@@ -3525,7 +3523,7 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>5045</Address>
       <Functions>Lichtwechsel, Innenbeleuchtung</Functions>
-      <StartDate>2023-03-10T00:00:00+01:00</StartDate>
+      <StartDate>2026-04-12T09:11:23.5494352+02:00</StartDate>
       <LastDate>2024-04-15T11:23:11.3409528+02:00</LastDate>
       <TrainId>71</TrainId>
       <Storage>Koffer 1</Storage>
@@ -3545,10 +3543,9 @@
       <PurchaseDate>1996-12-24T00:00:00</PurchaseDate>
       <Notes>Blauer Blitz</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T09:11:23.5494352+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Koffer 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>187</Id>
@@ -9231,10 +9228,9 @@
       <DecoderType>ZIMO MX64R</DecoderType>
       <Address>10</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2021-11-28T00:00:00</StartDate>
+      <StartDate>2026-04-12T11:25:59.5197464+02:00</StartDate>
       <LastDate>2023-01-29T00:00:00</LastDate>
       <TrainId>54</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>484</Id>
@@ -9250,10 +9246,9 @@
       <ItemNumber>L114 415</ItemNumber>
       <PurchaseDate>2006-11-11T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T11:25:59.5197464+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>485</Id>
@@ -9845,8 +9840,9 @@
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>516</Id>
@@ -9864,8 +9860,9 @@
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>517</Id>
@@ -9883,8 +9880,9 @@
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>518</Id>
@@ -9902,8 +9900,9 @@
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>519</Id>
@@ -9921,8 +9920,9 @@
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>520</Id>
@@ -9940,8 +9940,9 @@
       <Notes>TEE Rheingold</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>521</Id>
@@ -10241,9 +10242,9 @@
       <Address>9116</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-21T20:45:35.029356+02:00</StartDate>
-      <LastDate>2022-09-09T00:00:00</LastDate>
+      <LastDate>2026-04-12T11:23:07.7216966+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 4</Storage>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>537</Id>
@@ -11712,10 +11713,9 @@
       <Manufacturer>Roco</Manufacturer>
       <PurchaseDate>2017-04-06T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T09:19:12.6023421+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>612</Id>
@@ -12226,8 +12226,9 @@
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>638</Id>
@@ -12245,8 +12246,9 @@
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>639</Id>
@@ -12264,8 +12266,9 @@
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>640</Id>
@@ -12283,8 +12286,9 @@
       <Notes>CityShuttle Wiesel</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>641</Id>
@@ -12304,8 +12308,9 @@
       <Address>8033</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>642</Id>
@@ -12388,9 +12393,9 @@
       <Address>1293</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-25T14:33:33.1889699+02:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2026-04-12T11:24:28.4903092+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 5</Storage>
+      <Storage>Box 1 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>646</Id>
@@ -13076,7 +13081,7 @@
       <DecoderType>ZIMO MS450P22</DecoderType>
       <Address>1216</Address>
       <Functions>Lichtwechsel, Sound</Functions>
-      <StartDate>2022-08-18T00:00:00</StartDate>
+      <StartDate>2026-04-12T10:34:12.7148153+02:00</StartDate>
       <LastDate>2023-09-08T15:49:22.5511278+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Box 1 | O</Storage>
@@ -13982,7 +13987,7 @@
       <Name>CityShuttle Wiesel</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
-      <LastDate>2020-08-13T00:00:00</LastDate>
+      <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>637;638;639;640;641</Vehicles>
     </Train>
@@ -14108,7 +14113,7 @@
       <Name>TEE Rheingold</Name>
       <Category>Sonderzug</Category>
       <StartDate>2025-04-12T19:28:47.4581246+02:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2026-04-12T09:43:52.7109007+02:00</LastDate>
       <EngineId>87</EngineId>
       <Vehicles>515;516;517;518;519;520</Vehicles>
     </Train>
@@ -14125,7 +14130,7 @@
       <Id>37</Id>
       <Name>Montafoner</Name>
       <Category>Sonderzug</Category>
-      <StartDate>2021-02-14T00:00:00</StartDate>
+      <StartDate>2026-04-12T09:19:12.6023421+02:00</StartDate>
       <LastDate>2021-06-06T00:00:00</LastDate>
       <EngineId>89</EngineId>
       <Vehicles>90;91;92;611</Vehicles>
@@ -14278,7 +14283,7 @@
       <Id>54</Id>
       <Name>Montafoner ET</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2021-11-28T00:00:00</StartDate>
+      <StartDate>2026-04-12T11:25:59.5197464+02:00</StartDate>
       <LastDate>2023-01-29T00:00:00</LastDate>
       <EngineId>483</EngineId>
       <Vehicles>484</Vehicles>
@@ -14431,7 +14436,7 @@
       <Id>71</Id>
       <Name>Blauer Blitz</Name>
       <Category>Pendelzug N</Category>
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-04-12T09:11:23.5494352+02:00</StartDate>
       <LastDate>2024-04-15T11:23:11.3409528+02:00</LastDate>
       <EngineId>185</EngineId>
       <Vehicles>186</Vehicles>
@@ -14450,7 +14455,7 @@
       <Name>Schienenbus</Name>
       <Category>Pendelzug N</Category>
       <StartDate>2025-04-07T12:28:33.2667229+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-12T09:11:08.6454113+02:00</LastDate>
       <EngineId>47</EngineId>
       <Vehicles>48;49</Vehicles>
     </Train>
