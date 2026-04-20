@@ -1376,7 +1376,7 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>93</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-01-31T00:00:00</StartDate>
+      <StartDate>2026-04-20T16:43:39.2302366+02:00</StartDate>
       <LastDate>2023-12-07T14:19:23.3574463+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 1</Storage>
@@ -9820,7 +9820,7 @@
       <Address>9379</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-14T15:46:55.9109054+02:00</StartDate>
-      <LastDate>2022-08-18T00:00:00</LastDate>
+      <LastDate>2026-04-20T17:07:02.3643499+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 1</Storage>
     </Vehicle>
@@ -10523,7 +10523,7 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>2067</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-02T00:00:00</StartDate>
+      <StartDate>2026-04-20T17:53:51.1069026+02:00</StartDate>
       <LastDate>2024-02-25T10:27:50.7530071+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 1</Storage>
@@ -11632,9 +11632,9 @@
       <Address>9043</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-04-17T12:41:16.8846476+02:00</StartDate>
-      <LastDate>2022-09-09T00:00:00</LastDate>
+      <LastDate>2026-04-20T17:06:15.8999532+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Diesel | 2</Storage>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>608</Id>
