@@ -13800,6 +13800,83 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>717</Id>
+      <Number>VTa 18.16.10</Number>
+      <Category>+V</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>DR</Operator>
+      <WheelArrangement>B'2'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>295</Length>
+      <Manufacturer>Kato</Manufacturer>
+      <ItemNumber>30-733-1</ItemNumber>
+      <PurchaseDate>2026-04-23T00:00:00+02:00</PurchaseDate>
+      <Notes>Vindobona</Notes>
+      <DecoderType>ESU LokSound</DecoderType>
+      <Address>1816</Address>
+      <StartDate>2026-04-23T13:25:54.8999757+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>78</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>718</Id>
+      <Number>VMc 18.16.07</Number>
+      <Category>AWR4ü</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>DR</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>273</Length>
+      <Manufacturer>Kato</Manufacturer>
+      <ItemNumber>30-733-1</ItemNumber>
+      <PurchaseDate>2026-04-23T00:00:00+02:00</PurchaseDate>
+      <Notes>Vindobona</Notes>
+      <Address xsi:nil="true" />
+      <StartDate>2026-04-23T13:25:54.8999757+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>719</Id>
+      <Number>VMd 18.16.07</Number>
+      <Category>AB4ü</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>DR</Operator>
+      <WheelArrangement>2'2'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>273</Length>
+      <Manufacturer>Kato</Manufacturer>
+      <ItemNumber>30-733-1</ItemNumber>
+      <PurchaseDate>2026-04-23T00:00:00+02:00</PurchaseDate>
+      <Notes>Vindobona</Notes>
+      <Address xsi:nil="true" />
+      <StartDate>2026-04-23T13:25:54.8999757+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>720</Id>
+      <Number>VTb 18.16.07</Number>
+      <Category>+V</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>DR</Operator>
+      <WheelArrangement>B'2'</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>295</Length>
+      <Manufacturer>Kato</Manufacturer>
+      <ItemNumber>30-733-1</ItemNumber>
+      <PurchaseDate>2026-04-23T00:00:00+02:00</PurchaseDate>
+      <Notes>Vindobona</Notes>
+      <Address xsi:nil="true" />
+      <StartDate>2026-04-23T13:25:54.8999757+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -14326,7 +14403,7 @@
     </Train>
     <Train>
       <Id>59</Id>
-      <Name>Vindobona</Name>
+      <Name>Vindobona alt</Name>
       <Category>Pendelzug H</Category>
       <StartDate xsi:nil="true" />
       <LastDate>2024-01-30T20:59:18.69555+01:00</LastDate>
@@ -14494,6 +14571,15 @@
       <LastDate xsi:nil="true" />
       <EngineId>0</EngineId>
       <Vehicles>227;231;235;433;434;435;479;482;498;499;710;716</Vehicles>
+    </Train>
+    <Train>
+      <Id>78</Id>
+      <Name>Vindobona neu</Name>
+      <Category>Pendelzug H</Category>
+      <StartDate>2026-04-23T13:25:54.8999757+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <EngineId>717</EngineId>
+      <Vehicles>718;719;720</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
