@@ -11089,8 +11089,9 @@
       <Notes>Railjet</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>579</Id>
@@ -11108,8 +11109,9 @@
       <Notes>Railjet</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>580</Id>
@@ -11127,8 +11129,9 @@
       <Notes>Railjet</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>581</Id>
@@ -11146,8 +11149,9 @@
       <Notes>Railjet</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>582</Id>
@@ -11165,8 +11169,9 @@
       <Notes>Railjet</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>583</Id>
@@ -11184,8 +11189,9 @@
       <Notes>Railjet</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>584</Id>
@@ -11203,8 +11209,9 @@
       <Notes>Railjet mit Funktionsdecoder ZIMO MX685P16 Adresse 223</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>585</Id>
@@ -11286,8 +11293,9 @@
       <Address>223</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <TrainId>33</TrainId>
+      <Storage>Box 7 | O</Storage>
     </Vehicle>
     <Vehicle>
       <Id>589</Id>
@@ -14172,7 +14180,7 @@
       <Name>Railjet</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2025-05-11T08:13:06.0235821+02:00</StartDate>
-      <LastDate>2021-06-06T00:00:00</LastDate>
+      <LastDate>2026-04-23T18:20:47.5816098+02:00</LastDate>
       <EngineId>588</EngineId>
       <Vehicles>578;579;580;581;582;583;584</Vehicles>
     </Train>
