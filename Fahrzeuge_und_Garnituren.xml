@@ -1603,7 +1603,7 @@
       <PurchaseDate xsi:nil="true" />
       <DecoderType>ZIMO MX621</DecoderType>
       <Address>2062</Address>
-      <StartDate>2023-02-04T00:00:00</StartDate>
+      <StartDate>2026-05-29T14:16:01.3243365+02:00</StartDate>
       <LastDate>2024-03-10T09:48:34.0082728+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 1</Storage>
@@ -2998,7 +2998,7 @@
       <DecoderType>ZIMO MX622N</DecoderType>
       <Address>792</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-11T00:00:00+01:00</StartDate>
+      <StartDate>2026-05-29T14:42:34.9024743+02:00</StartDate>
       <LastDate>2024-03-24T09:31:03.7745129+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 1</Storage>
@@ -3965,8 +3965,9 @@
       <Address>156</Address>
       <Functions>Lichtwechsel (nur hinten)</Functions>
       <StartDate>2025-05-29T08:45:42.0822335+02:00</StartDate>
-      <LastDate>2023-03-05T00:00:00+01:00</LastDate>
+      <LastDate>2026-05-29T14:02:39.0881147+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>209</Id>
