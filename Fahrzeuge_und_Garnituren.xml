@@ -463,7 +463,7 @@
       <DecoderType>ZIMO MX623P12</DecoderType>
       <Address>8044</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2022-01-05T00:00:00</StartDate>
+      <StartDate>2026-05-31T10:21:40.5901196+02:00</StartDate>
       <LastDate>2023-03-26T00:00:00+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 5</Storage>
@@ -13592,8 +13592,9 @@
       <Address>1670</Address>
       <Functions>Lichtwechsel, Führerstandsbel.</Functions>
       <StartDate>2025-06-08T11:44:54.1186741+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-05-31T10:22:30.0564982+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Elektro | 5</Storage>
     </Vehicle>
     <Vehicle>
       <Id>706</Id>
