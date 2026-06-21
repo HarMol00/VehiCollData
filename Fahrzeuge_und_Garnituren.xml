@@ -1623,9 +1623,9 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>116</Address>
       <StartDate>2025-06-14T10:45:43.7776621+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:31.7109623+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>86</Id>
@@ -3274,8 +3274,9 @@
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>173</Id>
@@ -3292,8 +3293,9 @@
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>174</Id>
@@ -3310,8 +3312,9 @@
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>175</Id>
@@ -3328,8 +3331,9 @@
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>176</Id>
@@ -3346,8 +3350,9 @@
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>177</Id>
@@ -3364,8 +3369,9 @@
       <Notes>Hecht</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>178</Id>
@@ -10684,10 +10690,9 @@
       <PurchaseDate>2011-02-21T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>559</Id>
@@ -10704,10 +10709,9 @@
       <PurchaseDate>2011-02-21T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>560</Id>
@@ -10724,10 +10728,9 @@
       <PurchaseDate>2011-02-21T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>561</Id>
@@ -10744,10 +10747,9 @@
       <PurchaseDate>2011-02-21T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>562</Id>
@@ -10764,10 +10766,9 @@
       <PurchaseDate>2011-08-18T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>563</Id>
@@ -11049,10 +11050,9 @@
       <PurchaseDate>2013-01-16T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>577</Id>
@@ -11270,10 +11270,9 @@
       <PurchaseDate>2014-01-22T00:00:00</PurchaseDate>
       <Notes>Austria Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Box 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>588</Id>
@@ -13887,6 +13886,26 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>721</Id>
+      <Number>1144.092-4</Number>
+      <Category>+E</Category>
+      <IsEngine>true</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>Bo'Bo'</WheelArrangement>
+      <Epoch>6</Epoch>
+      <Scale>H0</Scale>
+      <Length>185</Length>
+      <Manufacturer>Piko</Manufacturer>
+      <ItemNumber>51638</ItemNumber>
+      <PurchaseDate>2026-06-18T00:00:00</PurchaseDate>
+      <DecoderType>Piko SmartDecoder XP 5.1 Sound</DecoderType>
+      <Address>1144</Address>
+      <Functions>Lichtwechsel, Sound</Functions>
+      <StartDate>2026-06-21T06:37:18.7653754+02:00</StartDate>
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -13983,7 +14002,7 @@
       <Id>11</Id>
       <Name>Austria Express</Name>
       <Category>Schnellzug</Category>
-      <StartDate>2023-09-08T15:49:42.6455312+02:00</StartDate>
+      <StartDate>2026-06-21T06:48:13.4304812+02:00</StartDate>
       <LastDate>2024-08-19T15:44:03.0057376+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>558;559;560;561;562;576;587</Vehicles>
@@ -14461,7 +14480,7 @@
       <Name>Hechte</Name>
       <Category>Schnellzug</Category>
       <StartDate>2025-07-24T08:32:58.8696233+02:00</StartDate>
-      <LastDate>2024-10-13T12:11:39.3187921+02:00</LastDate>
+      <LastDate>2026-06-21T06:48:07.1565137+02:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>172;173;174;175;176;177</Vehicles>
     </Train>
