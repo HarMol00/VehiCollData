@@ -13906,6 +13906,24 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>722</Id>
+      <Number>21 81 330 0 037-0</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
