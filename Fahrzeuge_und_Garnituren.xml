@@ -14020,6 +14020,120 @@
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
     </Vehicle>
+    <Vehicle>
+      <Id>728</Id>
+      <Number>21 81 330 0 039-6</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Notes>Drahtrollen</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>729</Id>
+      <Number>21 81 330 0 039-6</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Notes>Drahtrollen</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>730</Id>
+      <Number>21 81 330 0 039-6</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Notes>Drahtrollen</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>731</Id>
+      <Number>21 81 330 0 039-6</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Notes>Drahtrollen</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>732</Id>
+      <Number>21 81 330 0 039-6</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Notes>Drahtrollen</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
+    <Vehicle>
+      <Id>733</Id>
+      <Number>21 81 330 0 039-6</Number>
+      <Category>Ks</Category>
+      <IsEngine>false</IsEngine>
+      <Operator>ÖBB</Operator>
+      <WheelArrangement>2</WheelArrangement>
+      <Epoch>4</Epoch>
+      <Scale>H0</Scale>
+      <Length>160</Length>
+      <Manufacturer>Roco</Manufacturer>
+      <ItemNumber>6600120</ItemNumber>
+      <PurchaseDate>2026-07-09T00:00:00+02:00</PurchaseDate>
+      <Notes>Drahtrollen</Notes>
+      <Address xsi:nil="true" />
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <TrainId>0</TrainId>
+    </Vehicle>
   </Vehicles>
   <Trains>
     <Train>
@@ -14723,6 +14837,15 @@
       <LastDate xsi:nil="true" />
       <EngineId>717</EngineId>
       <Vehicles>718;719;720</Vehicles>
+    </Train>
+    <Train>
+      <Id>79</Id>
+      <Name>Drahtrollen</Name>
+      <Category>Ganzzug</Category>
+      <StartDate xsi:nil="true" />
+      <LastDate xsi:nil="true" />
+      <EngineId>0</EngineId>
+      <Vehicles>722;723;724;725;726;727;728;729;730;731;732;733</Vehicles>
     </Train>
   </Trains>
 </DataProvider>
