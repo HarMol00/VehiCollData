@@ -17,7 +17,7 @@
       <DecoderType>ZIMO MX61</DecoderType>
       <Address>2050</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-18T00:00:00+01:00</StartDate>
+      <StartDate>2026-07-17T14:32:06.0068687+02:00</StartDate>
       <LastDate>2024-04-15T08:51:30.0021231+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 1</Storage>
@@ -203,9 +203,9 @@
       <Address>52</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-06-22T12:33:45.138733+02:00</StartDate>
-      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
+      <LastDate>2026-07-17T14:31:53.1357566+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Diesel | 2</Storage>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>11</Id>
