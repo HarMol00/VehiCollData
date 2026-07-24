@@ -10682,7 +10682,7 @@
       <DecoderType>Lenz Silver+ 21</DecoderType>
       <Address>9341</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-07-01T00:00:00+02:00</StartDate>
+      <StartDate>2026-07-24T11:09:40.5254764+02:00</StartDate>
       <LastDate>2024-06-27T11:36:18.3740277+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 2</Storage>
@@ -12434,10 +12434,9 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>601</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-10-30T00:00:00</StartDate>
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate>2021-12-19T00:00:00</LastDate>
       <TrainId>48</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>647</Id>
@@ -12453,10 +12452,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>648</Id>
@@ -12472,10 +12470,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>649</Id>
@@ -12491,10 +12488,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>650</Id>
@@ -12510,10 +12506,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>651</Id>
@@ -12529,10 +12524,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>652</Id>
@@ -12548,10 +12542,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>653</Id>
@@ -12567,10 +12560,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>654</Id>
@@ -12586,10 +12578,9 @@
       <PurchaseDate>2020-08-13T00:00:00</PurchaseDate>
       <Notes>Alpen-See-Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>655</Id>
@@ -12608,10 +12599,9 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>601</Address>
       <Functions>Lichtwechsel (Funktionsdecoder)</Functions>
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Diesel | 4</Storage>
     </Vehicle>
     <Vehicle>
       <Id>656</Id>
@@ -13624,8 +13614,9 @@
       <Address>1067</Address>
       <Functions>Lichtwechsel, Sound</Functions>
       <StartDate>2025-07-24T09:03:49.6279734+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-07-24T11:06:01.4095078+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>707</Id>
@@ -13742,8 +13733,9 @@
       <DecoderType />
       <Address xsi:nil="true" />
       <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-07-24T10:09:51.8790441+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>713</Id>
@@ -13760,8 +13752,9 @@
       <Notes>CityJet VMOBIL</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-07-24T10:09:51.8790441+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>714</Id>
@@ -13778,8 +13771,9 @@
       <Notes>CityJet VMOBIL</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-07-24T10:09:51.8790441+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>715</Id>
@@ -13799,8 +13793,9 @@
       <Address>4748</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-07-24T10:09:51.8790441+02:00</LastDate>
       <TrainId>76</TrainId>
+      <Storage>Koffer 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>716</Id>
@@ -14575,7 +14570,7 @@
       <Id>48</Id>
       <Name>Alpen-See-Express</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2020-08-13T00:00:00</StartDate>
+      <StartDate>2026-07-24T09:50:07.5275499+02:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <EngineId>646</EngineId>
       <Vehicles>647;648;649;650;651;652;653;654;655</Vehicles>
@@ -14828,7 +14823,7 @@
       <Name>CityJet</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2025-10-18T14:53:45.3422945+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-07-24T10:09:51.8790441+02:00</LastDate>
       <EngineId>715</EngineId>
       <Vehicles>712;713;714</Vehicles>
     </Train>
