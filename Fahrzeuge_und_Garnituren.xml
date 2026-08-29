@@ -35,7 +35,7 @@
       <Manufacturer>Kleinbahn</Manufacturer>
       <ItemNumber>X534.80</ItemNumber>
       <PurchaseDate>2009-11-07T00:00:00</PurchaseDate>
-      <Notes>Motorturmwagen; 2020-01: neuer Rahmen</Notes>
+      <Notes>Motorturmwagen; 2020-01: neuer Rahmen; 2026-08-28: Elko 330µF</Notes>
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>534</Address>
       <Functions>Lichtwechsel</Functions>
@@ -7522,7 +7522,7 @@
       <Address>5269</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-09-29T15:39:00.5875701+02:00</StartDate>
-      <LastDate>2023-03-19T00:00:00+01:00</LastDate>
+      <LastDate>2026-08-29T15:46:55.5755701+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 3</Storage>
     </Vehicle>
@@ -11707,7 +11707,7 @@
       <DecoderType>ZIMO MX634D</DecoderType>
       <Address>658</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2022-09-09T00:00:00</StartDate>
+      <StartDate>2026-08-29T15:00:53.9896716+02:00</StartDate>
       <LastDate>2023-10-11T20:30:24.5494393+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 4</Storage>
