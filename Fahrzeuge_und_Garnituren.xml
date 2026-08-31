@@ -39,7 +39,7 @@
       <DecoderType>ZIMO MX63</DecoderType>
       <Address>534</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-01-25T00:00:00</StartDate>
+      <StartDate>2026-08-31T14:52:33.438411+02:00</StartDate>
       <LastDate>2021-03-14T00:00:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | Spezial</Storage>
@@ -3221,7 +3221,7 @@
       <StartDate xsi:nil="true" />
       <LastDate>2015-04-26T00:00:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 3</Storage>
+      <Storage>Diesel | Spezial</Storage>
     </Vehicle>
     <Vehicle>
       <Id>170</Id>
@@ -5187,7 +5187,7 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>9042</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-04T00:00:00</StartDate>
+      <StartDate>2026-08-31T13:57:40.4415787+02:00</StartDate>
       <LastDate>2024-01-28T12:34:15.2165549+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 3</Storage>
@@ -10971,9 +10971,9 @@
       <Address>1822</Address>
       <Functions>Lichtwechsel, Fernlicht</Functions>
       <StartDate>2025-10-04T09:36:31.5839475+02:00</StartDate>
-      <LastDate>2022-10-16T00:00:00</LastDate>
+      <LastDate>2026-08-31T13:57:58.9059758+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 4</Storage>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>573</Id>
@@ -13608,7 +13608,7 @@
       <StartDate>2025-07-24T09:03:49.6279734+02:00</StartDate>
       <LastDate>2026-07-24T11:06:01.4095078+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Diesel | Spezial</Storage>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>707</Id>
