@@ -5642,7 +5642,7 @@
       <DecoderType>ZIMO MX64</DecoderType>
       <Address>86</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-09-17T11:32:37.5847912+02:00</StartDate>
+      <StartDate>2026-10-08T14:11:38.2706195+02:00</StartDate>
       <LastDate>2024-10-03T10:51:47.4701768+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 1</Storage>
@@ -10897,9 +10897,9 @@
       <Address>2060</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-10-13T11:11:17.8986438+02:00</StartDate>
-      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
+      <LastDate>2026-10-08T14:10:20.9398905+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Diesel | 1</Storage>
+      <Storage>Diesel | 2</Storage>
     </Vehicle>
     <Vehicle>
       <Id>569</Id>
