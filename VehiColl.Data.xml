@@ -10236,7 +10236,7 @@
       <DecoderType>Lenz Standard</DecoderType>
       <Address>5270</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-04T00:00:00</StartDate>
+      <StartDate>2026-10-12T10:09:43.8974917+02:00</StartDate>
       <LastDate>2024-03-10T10:40:04.736887+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Dampf | 3</Storage>
@@ -13714,8 +13714,9 @@
       <Address>638</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-10-16T14:35:31.2862056+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-10-12T10:21:50.0170919+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Dampf | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>712</Id>
