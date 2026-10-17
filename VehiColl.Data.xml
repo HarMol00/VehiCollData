@@ -9244,8 +9244,9 @@
       <Address>10</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2026-04-12T11:25:59.5197464+02:00</StartDate>
-      <LastDate>2023-01-29T00:00:00</LastDate>
+      <LastDate>2026-10-17T12:48:28.5370437+02:00</LastDate>
       <TrainId>54</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>484</Id>
@@ -9262,8 +9263,9 @@
       <PurchaseDate>2006-11-11T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2026-04-12T11:25:59.5197464+02:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-10-17T12:48:28.5370437+02:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>485</Id>
@@ -10137,10 +10139,9 @@
       <DecoderType>ESU LokSound</DecoderType>
       <Address>501</Address>
       <Functions>Lichtwechsel, Sound</Functions>
-      <StartDate>2021-06-06T00:00:00</StartDate>
+      <StartDate>2026-10-17T12:48:34.9669165+02:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
       <TrainId>29</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>531</Id>
@@ -10157,10 +10158,9 @@
       <PurchaseDate>2008-07-08T00:00:00</PurchaseDate>
       <Notes>TEE Bavaria</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-10-17T12:48:34.9669165+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>532</Id>
@@ -10177,10 +10177,9 @@
       <PurchaseDate>2008-07-08T00:00:00</PurchaseDate>
       <Notes>TEE Bavaria</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-10-17T12:48:34.9669165+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>533</Id>
@@ -10197,10 +10196,9 @@
       <PurchaseDate>2008-07-08T00:00:00</PurchaseDate>
       <Notes>TEE Bavaria</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-10-17T12:48:34.9669165+02:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>534</Id>
@@ -14421,7 +14419,7 @@
       <Id>29</Id>
       <Name>TEE Bavaria</Name>
       <Category>Pendelzug H</Category>
-      <StartDate>2021-06-06T00:00:00</StartDate>
+      <StartDate>2026-10-17T12:48:34.9669165+02:00</StartDate>
       <LastDate>2023-02-02T00:00:00</LastDate>
       <EngineId>530</EngineId>
       <Vehicles>531;532;533</Vehicles>
@@ -14647,7 +14645,7 @@
       <Name>Montafoner ET</Name>
       <Category>Pendelzug H</Category>
       <StartDate>2026-04-12T11:25:59.5197464+02:00</StartDate>
-      <LastDate>2023-01-29T00:00:00</LastDate>
+      <LastDate>2026-10-17T12:48:28.5370437+02:00</LastDate>
       <EngineId>483</EngineId>
       <Vehicles>484</Vehicles>
     </Train>
