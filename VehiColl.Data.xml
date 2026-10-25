@@ -484,7 +484,7 @@
       <DecoderType>Lenz LE1025A</DecoderType>
       <Address>9141</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-04T00:00:00</StartDate>
+      <StartDate>2026-10-25T13:08:48.1166497+01:00</StartDate>
       <LastDate>2023-11-26T17:57:54.6305046+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 4</Storage>
@@ -11530,9 +11530,9 @@
       <Address>1062</Address>
       <Functions>Lichtwechsel, Triebwerksbeleuchtung</Functions>
       <StartDate>2025-10-23T14:38:14.3368518+02:00</StartDate>
-      <LastDate>2023-01-31T00:00:00</LastDate>
+      <LastDate>2026-10-25T13:13:01.0380847+01:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 1</Storage>
+      <Storage>Elektro | 3</Storage>
     </Vehicle>
     <Vehicle>
       <Id>602</Id>
@@ -11967,7 +11967,7 @@
       <DecoderType>ZIMO MX600P12</DecoderType>
       <Address>9041</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2023-02-04T00:00:00</StartDate>
+      <StartDate>2026-10-25T13:08:45.8807257+01:00</StartDate>
       <LastDate>2023-11-26T17:57:49.1629547+01:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Elektro | 5</Storage>
