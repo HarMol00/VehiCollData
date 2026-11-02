@@ -3024,9 +3024,9 @@
       <Address>9044</Address>
       <Functions>Lichtwechsel</Functions>
       <StartDate>2025-11-20T15:23:00.9478832+01:00</StartDate>
-      <LastDate>2023-02-04T00:00:00</LastDate>
+      <LastDate>2026-11-02T13:53:12.3873763+01:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Elektro | 4</Storage>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>160</Id>
@@ -6334,10 +6334,9 @@
       <DecoderType>Lenz/Roco</DecoderType>
       <Address>310</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2020-10-30T00:00:00</StartDate>
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <TrainId>36</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>332</Id>
@@ -11748,10 +11747,9 @@
       <PurchaseDate>2017-05-26T00:00:00</PurchaseDate>
       <Notes>Wien-Nizza-Cannes Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>613</Id>
@@ -11768,10 +11766,9 @@
       <PurchaseDate>2017-05-26T00:00:00</PurchaseDate>
       <Notes>Wien-Nizza-Cannes Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>614</Id>
@@ -11788,10 +11785,9 @@
       <PurchaseDate>2017-05-26T00:00:00</PurchaseDate>
       <Notes>Wien-Nizza-Cannes Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>615</Id>
@@ -11808,10 +11804,9 @@
       <PurchaseDate>2017-05-26T00:00:00</PurchaseDate>
       <Notes>Wien-Nizza-Cannes Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>616</Id>
@@ -11828,10 +11823,9 @@
       <PurchaseDate>2017-05-26T00:00:00</PurchaseDate>
       <Notes>Wien-Nizza-Cannes Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>617</Id>
@@ -11848,10 +11842,9 @@
       <PurchaseDate>2017-05-26T00:00:00</PurchaseDate>
       <Notes>Wien-Nizza-Cannes Express</Notes>
       <Address xsi:nil="true" />
-      <StartDate xsi:nil="true" />
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>618</Id>
@@ -12244,7 +12237,7 @@
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Box 1 | O</Storage>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>638</Id>
@@ -12264,7 +12257,7 @@
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Box 1 | O</Storage>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>639</Id>
@@ -12284,7 +12277,7 @@
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Box 1 | O</Storage>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>640</Id>
@@ -12304,7 +12297,7 @@
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Box 1 | O</Storage>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>641</Id>
@@ -12326,7 +12319,7 @@
       <StartDate>2025-04-21T19:30:36.7848052+02:00</StartDate>
       <LastDate>2026-04-12T09:45:02.4440892+02:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Box 1 | O</Storage>
+      <Storage>Vitrine</Storage>
     </Vehicle>
     <Vehicle>
       <Id>642</Id>
@@ -12835,7 +12828,7 @@
       <DecoderType>Lenz Standard+</DecoderType>
       <Address>2016</Address>
       <Functions>Lichtwechsel</Functions>
-      <StartDate>2022-08-18T00:00:00</StartDate>
+      <StartDate>2026-11-02T13:51:59.4270585+01:00</StartDate>
       <LastDate>2023-09-23T18:13:00.5429799+02:00</LastDate>
       <TrainId>0</TrainId>
       <Storage>Diesel | 2</Storage>
@@ -14482,7 +14475,7 @@
       <Id>36</Id>
       <Name>Wien-Nizza-Cannes Express</Name>
       <Category>Sonderzug</Category>
-      <StartDate>2020-10-30T00:00:00</StartDate>
+      <StartDate>2026-11-02T13:52:19.0620168+01:00</StartDate>
       <LastDate>2021-11-28T00:00:00</LastDate>
       <EngineId>331</EngineId>
       <Vehicles>612;613;614;615;616;617</Vehicles>
