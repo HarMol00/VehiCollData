@@ -4112,8 +4112,9 @@
       <PurchaseDate>1997-07-22T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>216</Id>
@@ -4870,8 +4871,9 @@
       <Notes>Zementwagen</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>255</Id>
@@ -6820,8 +6822,9 @@
       <Notes>ÖMV</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>358</Id>
@@ -8033,8 +8036,9 @@
       <Notes>Sonderserie</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>421</Id>
@@ -8482,8 +8486,9 @@
       <Notes>Semmering-Set</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>444</Id>
@@ -8984,8 +8989,9 @@
       <PurchaseDate>2005-12-24T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>470</Id>
@@ -9002,8 +9008,9 @@
       <PurchaseDate>2005-12-24T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>471</Id>
@@ -9020,8 +9027,9 @@
       <PurchaseDate>2005-12-24T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>472</Id>
@@ -9150,8 +9158,9 @@
       <PurchaseDate>2006-05-26T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>479</Id>
@@ -9281,8 +9290,9 @@
       <PurchaseDate>2007-01-10T00:00:00</PurchaseDate>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>486</Id>
@@ -10022,7 +10032,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 1 | U</Storage>
+      <Storage>KB 1 | M</Storage>
     </Vehicle>
     <Vehicle>
       <Id>524</Id>
@@ -10042,7 +10052,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 1 | U</Storage>
+      <Storage>KB 1 | M</Storage>
     </Vehicle>
     <Vehicle>
       <Id>525</Id>
@@ -10062,7 +10072,7 @@
       <StartDate xsi:nil="true" />
       <LastDate xsi:nil="true" />
       <TrainId>0</TrainId>
-      <Storage>KB 1 | U</Storage>
+      <Storage>KB 1 | M</Storage>
     </Vehicle>
     <Vehicle>
       <Id>527</Id>
@@ -12789,8 +12799,9 @@
       <Notes>ÖMV</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>666</Id>
@@ -12808,8 +12819,9 @@
       <Notes>ÖMV</Notes>
       <Address xsi:nil="true" />
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate xsi:nil="true" />
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <TrainId>0</TrainId>
+      <Storage>KB 1 | U</Storage>
     </Vehicle>
     <Vehicle>
       <Id>667</Id>
@@ -14233,7 +14245,7 @@
       <Name>Kesselzug 4ax</Name>
       <Category>Kesselzug</Category>
       <StartDate>2025-11-20T14:40:04.461296+01:00</StartDate>
-      <LastDate>2023-11-17T16:13:25.6082618+01:00</LastDate>
+      <LastDate>2026-11-02T15:37:39.5672426+01:00</LastDate>
       <EngineId>0</EngineId>
       <Vehicles>215;254;357;420;443;469;470;471;478;485;665;666</Vehicles>
     </Train>
