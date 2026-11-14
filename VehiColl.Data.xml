@@ -2075,9 +2075,9 @@
       <DecoderType>Lenz LE077XF</DecoderType>
       <Address>9060</Address>
       <StartDate>2026-03-07T19:49:54.8019262+01:00</StartDate>
-      <LastDate>2023-03-26T00:00:00+01:00</LastDate>
+      <LastDate>2026-11-14T16:49:26.2080493+01:00</LastDate>
       <TrainId>0</TrainId>
-      <Storage>Diesel | 2</Storage>
+      <Storage>Diesel | 1</Storage>
     </Vehicle>
     <Vehicle>
       <Id>110</Id>
